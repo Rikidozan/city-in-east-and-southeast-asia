@@ -29,7 +29,7 @@ Semester Two:
 1. 28.01 - Broadening Theoretical Approaches
 2. 04.02 - Transformations: Cities and Hinterland
 3. 11.02 - “Second Cities” and Regional Networks
-4. 18.02 - Cities Beyond National Space
+4. 18.02 - Molding Colonial Spaces
     * 20.02 - Primary Source Essay 2
 5. 25.02 - Neighborhoods and Local Space
 6. 04.03 - Architecture and Domestic Spaces
@@ -48,7 +48,7 @@ Semester Two:
 17 Nov - Long Essay 1 (15%)  
 20 Feb - Primary Source Essay 2 (5%)  
 13 Apr - Long Essay 2 (15%)  
-Presentation (10%)
+2 Presentations (20%)
 
 **40% Exam**  
 2 Take-Home Examinations, 10 hours each
