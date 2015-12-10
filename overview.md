@@ -1,8 +1,9 @@
-## MO4971 The City in East and Southeast Asia c. 1850-1950
+\newpage
+\setlength{\parindent}{0pt}
 
-**Lecturer:** Konrad M. Lawson **Email:** kml8@st-andrews.ac.uk  
-**Meets:** 2014-5 - Wed 9-12  
-**Office:** St. Katharine's Lodge B3  **Office Hours:** Tue 11-12, 15:00-16:45   
+**Lecturer:** Konrad M. Lawson **Email:** kml8@st-andrews.ac.uk   
+**Meets:** Fall and Spring 2015-6 Wed 10:00-13:00 St. Katharine's Lodge B3    
+**Office Hours:** Tue, Thu 15:00-16:00 
 
 ### Description	
 
@@ -10,45 +11,46 @@ This module explores the development of urban spaces in 19th and 20th century Ea
 
 ### Overview
 
-1. 17.09 - Impressions: Asian Cities Today 
-2. 24.09 - Historical and Theoretical Approaches to Urban Space
-3. 01.10 - Background: 19th to 20th East and Southeast Asia
-4. 08.10 - Pre-20th Cent. Development of Hansŏng, Beijing, and Edo
-5. 15.10 - Treaty Ports and Foreign Concessions
-6. 22.10 - Utopian Planning and Development of Colonial Cities
-    * 24.10 - Primary Source Essay 1 
-7. [ - ] - Source Focus: Shanghai Municipal Police Archive (SMPA)
-8. 05.11 - Health and Hygiene
-9. 12.11 - Crime and Order
-    * 17.11 - Long Essay 1
-10. 19.11 - Power, Politics, and Protest
-11. 26.11 - Migration and Minorities
+16.09 Week 1 - Impressions: Asian Cities Today   
+23.09 Week 2 - Historical and Theoretical Approaches to Urban Space  
+30.09 Week 3 - Background: 19th to 20th East and Southeast Asia  
+07.10 Week 4 - Pre-20th Cent. Development of Hansŏng, Beijing, and Edo  
+    *09.10 - Two Gobbets Due*  
+14.10 Week 5 - Treaty Ports and Foreign Concessions  
+21.10 Week 6 - Utopian Planning and Development of Colonial Cities  
+28.10 Week 7 - Source Focus: Shanghai Municipal Police Archive (SMPA)  
+04.11 Week 8 - Long Essay Discussion and Pair Writing  
+[-] - Week 9 Health and Hygiene  
+18.11 Week 10 - Crime and Order  
+    *20.11 - Long Essay 1 Due*  
+25.11 Week 11 - Power, Politics, and Protest  
 
 Semester Two:
 
-1. 28.01 - Broadening Theoretical Approaches
-2. 04.02 - Transformations: Cities and Hinterland
-3. 11.02 - “Second Cities” and Regional Networks
-4. 18.02 - Molding Colonial Spaces
-    * 20.02 - Primary Source Essay 2
-5. 25.02 - Neighborhoods and Local Space
-6. 04.03 - Architecture and Domestic Spaces
-7. [ - ] - Focus: Tokyo & Beijing
-     * Spring Break
-8. 01.04 - Focus: Singapore & Rangoon
-9. 08.04 - Focus: Pusan & Osaka
-    * 13.04 - Long Essay 2
-10. 15.04 - Focus: Harbin & Qingdao
-11. 22.04 - Focus: Manila & Hong Kong
+27.01 - Week 12 - Broadening Theoretical Approaches  
+    *01.02 - Two Gobbets Due*  
+03.02 Week 13 - Migration and Minorities  
+10.02 Week 14 - Transformations: Cities and Hinterland   
+17.02 Week 15 - “Second Cities”   
+24.02 Week 16 - Molding Colonial Spaces  
+02.03 Week 17 - Neighborhoods and Local Space  
+09.03 Week 18 - Architecture and Domestic Spaces  
+     *Spring Break*    
+30.03 Week 19 - Transportation Within and Beyond the City  
+06.04 Week 20 - Spaces of Tourism   
+13.04 Week 21 - Commemoration, Preservation, and Memory  
+    *15.04 - Long Essay 2*  
+20.04 Week 22 - Cities Under Occupation  
+28.04 - Revision Session (Thursday)  
 
 ### Assessment Summary
 
 **60% Coursework**  
-24 Oct - Primary Source Essay 1 (5%)   
-17 Nov - Long Essay 1 (15%)  
-20 Feb - Primary Source Essay 2 (5%)  
-13 Apr - Long Essay 2 (15%)  
-2 Presentations (20%)
+09 Oct - Gobbet Exercise 1 (10% of coursework)   
+20 Nov - Long Essay 1 (25% of coursework)  
+01 Feb - Gobbet Exercise 2 (10% of coursework)  
+15 Apr - Long Essay 2 (25% of coursework%)  
+2 Presentations (each 15% of coursework)
 
 **40% Exam**  
 2 Take-Home Examinations, 10 hours each

@@ -1,24 +1,16 @@
 ## Assignments
 
-The assessed portion of the coursework for this module consists of one essay, a presentation, and three short essays responding to weekly discussion questions. In addition, students are required to come prepared each week having completed the assigned reading and prepared to discuss them.
+The assessed portion of the coursework for this module consists of a total of four gobbets (two each semester), two long essays (one each semester), two presentations (one each semester). In addition, students are required to come prepared each week having completed the assigned reading and prepared to discuss them. Most weeks students will also be asked to do short unassessed presentations 10 or less minutes each.
 
-### Primary Source Essay
+### Gobbet Exercise
 
-There will be two primary source essays, each worth 5% of your final mark. The first one is on a source you choose your self. This may consist of an essay on one longer primary document if it is long, or on a collection of documents that form an appropriate unit together. You should consult with me before proceeding with the essay. The second essay, in the spring will be on a source, or chosen from a small number of sources presented by myself to you early in the second semester.
-
-The primary source essay should be 2,000-2,500 words in length. It should introduce the document, provide a solid background context about the document, its author, origins, and historical context, and then make an argument about what we can learn from. Finally, the primary source essay should also highlight any problematic aspects of the source.
+In both semesters students will be asked to submit two gobbets, or source analysis essays. Each of these may not exceed 1,000 words in length. Each gobbet collection assignment will be worth 10% of your total coursework mark. In addition, prior to the deadline for each, we will do a practice gobbet that is not assessed.
 
 ### Long Essay
 
-The two long essays for the course are each worth 15% of the total mark and should each be 5,000 words or less. The process of composing an essay of this length is made far easier if make steady progress throughout the semester rather than face potential panic and disappointment nearer the deadline. Narrow down an area of interest, read within this area of interest, isolate a few questions of interest, carry out further reading and analysis, and then proceed to write an essay which makes a convincing historical argument. The Long Essay should be primary source driven.
+The two long essays for the course are each worth 25% of the coursework and should each be 5,000 words or less. The process of composing an essay of this length is made far easier if make steady progress throughout the semester rather than face potential panic and disappointment nearer the deadline. Narrow down an area of interest, read within this area of interest, isolate a few questions of interest, carry out further reading and analysis, and then proceed to write an essay which makes a convincing historical argument. The Long Essay should be primary source driven.
 
 Some class time on week three will be dedicated to discussing the essay. At that time, please send me two or three general potential topics of interest that are related to cities in East and Southeast Asia, the name of one or two secondary or primary historical works related to each, and a brief note as to why you chose that work. I will give feedback on the ideas, and throughout the semester encourage students to visit me in office hours to help discuss the move from general topics of interest to specific historical questions. I am also willing to look at an outline of your essay and your final list of sources.
-
-## Long Essay
-
-The essay for the course is worth 50% of the total coursework and has a limit of 5,000 words including footnotes. The process of composing an essay of this length is made far easier if you make steady progress throughout the semester rather than face potential panic and disappointment nearer the deadline. Narrow down an area of interest, read within this area of interest, isolate a few questions of interest, carry out further reading and analysis, and then proceed to write an essay which makes a convincing historical argument. 
-
-Some class time in week four will be dedicated to discussing the essay. At that time, please send me two or three general potential topics of interest that are related to our module, the name of one or two secondary or primary historical works related to each, and a brief note as to why you chose that work. I will give feedback on the ideas, and throughout the semester encourage students to visit me in office hours to help discuss the move from general topics of interest to specific historical questions. I am also willing to look at an outline of your essay and your final list of sources.
 
 ### Making an Argument
 
@@ -115,17 +107,13 @@ Unless otherwise indicated, work will considered submitted by the date the docum
 
 If you are concerned that any given assignment was not correctly submitted to the MMS, you are free to email a copy of your submitted assignment, if you like. In the event an assignment was not correctly uploaded to the MMS for some reason, but an emailed copy was sent in time, that date of submission will be used, but a copy will still need to be submitted to the MMS thereafter.
 
-### Extensions and Late Work
+### Extensions, Late Work, and Short/Long Work
 
 Prior permissions for late submission of work ("Extensions") to make fair allowance for adverse circumstances affecting a student's ability to submit the work on time will be considered on a case by case basis. Normally such permissions will only be granted for circumstances that are both unforeseen and beyond the student's control.
 
-Without an approved extension, 0.5 points will be deducted for every day (including Saturday, Sunday, and any holiday) after the relevant deadline.
+Please see the departmental guidelines for the penalties of late and short / long work:
 
-Work submitted more than two weeks after the relevant deadline but before the School's final deadline for semester work will receive an automatic fail mark of 1.
-
-### Word Limits
-
-Assessed work with word limits should be always submitted within those limits. Writing in a clear and concise manner, and being able to structure and execute an argument that may be shorter than you feel is required is a skill that is of great use in academic fields as well as the workplace beyond. A piece of work that is under 10% over the limit will not be penalised. Work that ranges around 10-20% too long, will be penalised by 1 point. Anything above 20% of the word limit the work will be returned unmarked. Once resubmitted the piece of work will be marked and late submission penalties apply. 
+http://www.st-andrews.ac.uk/history/infoug/penalties%20for%20late%20work.html
 
 ### Feedback
 
@@ -135,7 +123,7 @@ General feedback is provided directly on the mark sheet, which will usually be p
 
 Most weeks of the semester students will be given and opportunity to present a summary, critique, and raise some discussion questions based on supplementary readings. Two such presentations for each student will be given more time and assessed formally. The assessed presentation should be 25-30 minutes in length and not longer. It may either focus on one or two books, or a collection of articles (3 articles to replace a book) from among the assigned required or supplementary readings for each week. It should summarise the main arguments, and make 1-3 to focused critiques or observations about the read material. A supplementary handout (1-2 pages at most) should be brought that includes some bullet points from the summary, any key persons or dates, and a few questions about the themes in the reading to kick off our discussion.
 
-You will be asked to make shorter presentations, 10-15 minutes in length throughout the year on some of the readings assigned. Volunteers will usually be asked and handouts are not required for these presentations. These shorter presentations are not assessed. When making these shorter presentations you should again bring a few questions for discussion.
+You will be asked to make shorter presentations, 10 minutes or so in length throughout the year on some of the readings assigned. Volunteers will usually be asked and handouts are not required for these presentations. These shorter presentations are not assessed. When making these shorter presentations you should again bring a few questions for discussion.
 
 Some questions to consider as you prepare:
 
