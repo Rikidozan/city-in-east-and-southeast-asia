@@ -2,8 +2,8 @@
 \setlength{\parindent}{0pt}
 
 **Lecturer:** Konrad M. Lawson **Email:** kml8@st-andrews.ac.uk   
-**Meets:** Fall and Spring 2015-6 Wed 10:00-13:00 St. Katharine's Lodge B3    
-**Office Hours:** Tue, Thu 15:00-16:00 
+**Meets:** Fall and Spring 2017-8 Wed 9:00-12:00 St. Katharine's Lodge B3    
+**Office Hours:** Wed 12:00 
 
 ### Description	
 
@@ -11,49 +11,48 @@ This module explores the development of urban spaces in 19th and 20th century Ea
 
 ### Overview
 
-16.09 Week 1 - Impressions: Asian Cities Today   
-23.09 Week 2 - Historical and Theoretical Approaches to Urban Space  
-30.09 Week 3 - Background: 19th to 20th East and Southeast Asia  
-07.10 Week 4 - Pre-20th Cent. Development of Hansŏng, Beijing, and Edo  
-    *09.10 - Two Gobbets Due*  
-14.10 Week 5 - Treaty Ports and Foreign Concessions  
-21.10 Week 6 - Utopian Planning and Development of Colonial Cities  
-28.10 Week 7 - Source Focus: Shanghai Municipal Police Archive (SMPA)  
-04.11 Week 8 - Long Essay Discussion and Pair Writing  
-[-] - Week 9 Health and Hygiene  
-18.11 Week 10 - Crime and Order  
-    *20.11 - Long Essay 1 Due*  
-25.11 Week 11 - Power, Politics, and Protest  
+Week 1 - Impressions: Asian Cities Today   
+Week 2 - Historical and Theoretical Approaches to Urban Space  
+Week 3 - Background: 19th to 20th East and Southeast Asia  
+Week 4 - Pre-20th Cent. Development of Beijing and Edo  
+    *Gobbets Due*    
+Week 5 - Treaty Ports and Foreign Concessions  
+Week 6 - *Independent Learning Week*  
+Week 7 - Utopian Planning and Development of Colonial Cities  
+Week 8 - Source Focus: Shanghai Municipal Police Archive (SMPA)  
+Week 9 - Long Essay Discussion and Pair Writing  
+Week 10 - Health and Hygiene  *This meeting will have to be rescheduled*   
+Week 11 - Labour, Politics, and Protest  
+    *Long Essay Due*  
 
-Semester Two:
+**Semester Two:**
 
-27.01 - Week 12 - Broadening Theoretical Approaches  
-    *01.02 - Two Gobbets Due*  
-03.02 Week 13 - Migration and Minorities  
-10.02 Week 14 - Transformations: Cities and Hinterland   
-17.02 Week 15 - “Second Cities”   
-24.02 Week 16 - Molding Colonial Spaces  
-02.03 Week 17 - Neighborhoods and Local Space  
-09.03 Week 18 - Architecture and Domestic Spaces  
+Week 1 - Broadening Theoretical Approaches  
+Week 2 - Migration and Minorities  
+    *Gobbets Due*  
+Week 3 - Transformations: Cities and Hinterland   
+Week 4 - “Second Cities”   
+Week 5 - Molding Colonial Spaces  
+Week 6 - Neighborhoods and Local Space  
+Week 7 - Architecture and Domestic Spaces  
      *Spring Break*    
-30.03 Week 19 - Transportation Within and Beyond the City  
-06.04 Week 20 - Spaces of Tourism   
-13.04 Week 21 - Commemoration, Preservation, and Memory  
-    *15.04 - Long Essay 2*  
-20.04 Week 22 - Cities Under Occupation  
-28.04 - Revision Session (Thursday)  
+Week 8 - Transportation Within and Beyond the City  
+Week 9 - Spaces of Tourism   
+Week 10 - Commemoration, Preservation, and Memory  
+Week 11 - Cities Under Occupation  
+    *Long Essay Due*
 
 ### Assessment Summary
 
 **60% Coursework**  
-09 Oct - Gobbet Exercise 1 (10% of coursework)   
-20 Nov - Long Essay 1 (25% of coursework)  
-01 Feb - Gobbet Exercise 2 (10% of coursework)  
-15 Apr - Long Essay 2 (25% of coursework%)  
+13 Oct - Gobbet Exercise 1 (10% of coursework)   
+1 Dec - Long Essay 1 (25% of coursework)  
+9 Feb - Gobbet Exercise 2 (10% of coursework)  
+27 Apr - Long Essay 2 (25% of coursework%)  
 2 Presentations (each 15% of coursework)
 
 **40% Exam**  
-2 Take-Home Examinations, 10 hours each
+2 Take-Home Examinations at the end of spring semester, 10 hours each
 
 ### Learning Outcomes
 

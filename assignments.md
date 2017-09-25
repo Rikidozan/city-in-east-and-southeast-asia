@@ -6,6 +6,16 @@ The assessed portion of the coursework for this module consists of a total of fo
 
 In both semesters students will be asked to submit two gobbets, or source analysis essays. Each of these may not exceed 1,000 words in length. Each gobbet collection assignment will be worth 10% of your total coursework mark. In addition, prior to the deadline for each, we will do a practice gobbet that is not assessed.
 
+* Selecting a source: The student may select a source related to their long essay research, from the primary sources assigned during the semester, but from beyond the assigned portion (a different page range, another part, another volume etc.), or with approval of the tutor, a source of interest to the student. The source may be visual (a map, photograph, drawing, etc.) or textual but no more than one visual source per two gobbet assignment. If chosen from among assigned primary sources, they must come from different weeks. The full body of the source must be included at the top of the essay, and the source text must not exceed 500 words, preceded by a citation and, in the event the source is chosen by the student, a sentence or two on what precedes/follows the selected fragment (up to 100 words).
+
+* Writing the gobbet: Your goal in the gobbet is to draw out the revealing features of a short source and demonstrate your abilities for analysis. A good gobbet will:
+    *  it will identify the document and context (including its language, whether the text provided is a translation, and the place where this document was done), its purpose and the main characters involved;
+    *  it will comment on the particular point or points raised in the extract (ask yourself, why was this extract set?);
+    * it will explain any distinctive words or phrases
+    * it will then, towards the end, comment more discursively on some of the broader issues involved. Is this a true or accurate narrative of events? Are the hopes of the protagonist ultimately realised? Where does this extract fit into the wider context of what we know from our sources?
+    * Try to make about four to five points. Avoid an over-lengthy introduction; get to the point quickly, do not simply rephrase the wording of the gobbet, and make sure that you analyse it.
+    * For those of you also taking literature modules in other Schools, please note that history gobbets are less an exercise in textual criticism and much more an attempt to get to the heart of the issues contained within a document, and the issues concerning the nature of the document itself.
+
 ### Long Essay
 
 The two long essays for the course are each worth 25% of the coursework and should each be 5,000 words or less. The process of composing an essay of this length is made far easier if make steady progress throughout the semester rather than face potential panic and disappointment nearer the deadline. Narrow down an area of interest, read within this area of interest, isolate a few questions of interest, carry out further reading and analysis, and then proceed to write an essay which makes a convincing historical argument. The Long Essay should be primary source driven.
@@ -22,11 +32,11 @@ The historical argument in your long essays, in particular, should be clearly an
 
 For example replace:
 
-In this essay, I will explore the relationship between the alarm clock sleep function and our productivity in modern life.
+*In this essay, I will explore the relationship between the alarm clock sleep function and our productivity in modern life.*
 
 with something like:
 
-I will argue that the alarm clock sleep function is a major hindrance to our productivity without contributing at all to our rest after a night of sleep. I will base this upon the studies of Hansen and Jenson in 1983 and in a series of interviews with wise old people in 2014. This argument is important because, as I will show, evidence shows that the increased availability of time in the morning to eat a healthier breakfast, carry out some light house chores, and do morning exercise, not only allows for greater evening rest after a long day of work, but decreases the tiredness we feel throughout the day.
+*I will argue that the alarm clock sleep function is a major hindrance to our productivity without contributing at all to our rest after a night of sleep. I will base this upon the studies of Hansen and Jenson in 1983 and in a series of interviews with wise old people in 2014. This argument is important because, as I will show, evidence shows that the increased availability of time in the morning to eat a healthier breakfast, carry out some light house chores, and do morning exercise, not only allows for greater evening rest after a long day of work, but decreases the tiredness we feel throughout the day.*
 
 **Sticking to your Argument:** All of us come across many interesting stories, anecdotes, and sub-points that we want to share in writing our essays. However, it is important to stay sharply focused on the argument you are going to make in the essay. After you have finished writing your essay, read it through and for each paragraph and sentence ask yourself if it supported your argument, provided essential background to establishing your argument, or else if it does not offer much of a contribution. If it doesn't, cut it ruthlessly from your essay to make room for better material.
 
@@ -103,15 +113,11 @@ This document, sections 1-4, contains extremely valuable information on how to c
 
 ### Online Submission
 
-Unless otherwise indicated, work will considered submitted by the date the document was submitted online on the MMS. The digital submission is the only submission that matters for the mark. Paper copies of your submissions are requested and may be submitted in class or directly to my box on the first floor of St Katharine's Lodge. 
-
-If you are concerned that any given assignment was not correctly submitted to the MMS, you are free to email a copy of your submitted assignment, if you like. In the event an assignment was not correctly uploaded to the MMS for some reason, but an emailed copy was sent in time, that date of submission will be used, but a copy will still need to be submitted to the MMS thereafter.
+Unless otherwise indicated, work will considered submitted by the date the document was submitted online on the MMS. The digital submission is the only submission that matters for the mark. Paper copies of your long essays are requested and may be submitted in class or directly to my box on the first floor of St Katharine's Lodge. 
 
 ### Extensions, Late Work, and Short/Long Work
 
-Prior permissions for late submission of work ("Extensions") to make fair allowance for adverse circumstances affecting a student's ability to submit the work on time will be considered on a case by case basis. Normally such permissions will only be granted for circumstances that are both unforeseen and beyond the student's control.
-
-Please see the departmental guidelines for the penalties of late and short / long work:
+Prior permissions for late submission of work ("Extensions") to make fair allowance for adverse circumstances affecting a student's ability to submit the work on time will be considered on a case by case basis. Normally such permissions will only be granted for circumstances that are both unforeseen and beyond the student's control. Please see the departmental guidelines for the penalties of late and short / long work:
 
 http://www.st-andrews.ac.uk/history/infoug/penalties%20for%20late%20work.html
 
@@ -123,11 +129,10 @@ General feedback is provided directly on the mark sheet, which will usually be p
 
 Most weeks of the semester students will be given and opportunity to present a summary, critique, and raise some discussion questions based on supplementary readings. Two such presentations for each student will be given more time and assessed formally. The assessed presentation should be 25-30 minutes in length and not longer. It may either focus on one or two books, or a collection of articles (3 articles to replace a book) from among the assigned required or supplementary readings for each week. It should summarise the main arguments, and make 1-3 to focused critiques or observations about the read material. A supplementary handout (1-2 pages at most) should be brought that includes some bullet points from the summary, any key persons or dates, and a few questions about the themes in the reading to kick off our discussion.
 
-You will be asked to make shorter presentations, 10 minutes or so in length throughout the year on some of the readings assigned. Volunteers will usually be asked and handouts are not required for these presentations. These shorter presentations are not assessed. When making these shorter presentations you should again bring a few questions for discussion.
-
-Some questions to consider as you prepare:
+Important: You will be asked to make shorter presentations, 10 minutes or so in length throughout the year on some of the readings assigned. Volunteers will usually be asked and handouts are not required for these presentations. These shorter presentations are not assessed. When making these shorter presentations you should again bring a few questions for discussion. Some questions to consider as you prepare:
 
 * Did the distributed handout of one or at most two pages accurately summarize the general points to be made in the presentation in the form of concise bullet points
+* Did I upload the handout to MMS before giving my presentation?
 * If appropriate, did the handout include any important dates, sources, or a map for the discussion?
 * Did the handout include 1-3 discussion questions?
 * Was the 20 minute limit strictly observed in the presentation?
