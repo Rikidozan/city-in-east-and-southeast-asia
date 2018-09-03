@@ -2,8 +2,8 @@
 \setlength{\parindent}{0pt}
 
 **Lecturer:** Konrad M. Lawson **Email:** kml8@st-andrews.ac.uk   
-**Meets:** Fall and Spring 2017-8 Wed 9:00-12:00 St. Katharine's Lodge B3    
-**Office Hours:** Wed 12:00 
+**Meets:** Fall and Spring 2018-9 Wed 10:00-13:00 St. Katharine's Lodge B3    
+**Office Hours:** Wed 13:00 (please sign up for a [time](https://goo.gl/Rh19wj) )
 
 ### Description	
 
@@ -11,45 +11,48 @@ This module explores the development of urban spaces in 19th and 20th century Ea
 
 ### Overview
 
+Week 0 - Urban History and Spatial History  
 Week 1 - Impressions: Asian Cities Today   
 Week 2 - Historical and Theoretical Approaches to Urban Space  
-Week 3 - Background: 19th to 20th East and Southeast Asia  
+Week 3 - Background: 19th to 20th East and Southeast Asia *This meeting will have to be rescheduled*  
 Week 4 - Pre-20th Cent. Development of Beijing and Edo  
-    *Gobbets Due*    
-Week 5 - Treaty Ports and Foreign Concessions  
+Week 5 - Treaty Ports and Foreign Concessions   
+*Gobbets Due*  
 Week 6 - *Independent Learning Week*  
 Week 7 - Utopian Planning and Development of Colonial Cities  
 Week 8 - Source Focus: Shanghai Municipal Police Archive (SMPA)  
-Week 9 - Long Essay Discussion and Pair Writing  
-Week 10 - Health and Hygiene  *This meeting will have to be rescheduled*   
-Week 11 - Labour, Politics, and Protest  
-    *Long Essay Due*  
+Week 9 - Health and Hygiene  
+Week 10 - Labour, Politics, and Protest  
+Week 11 - Migration and Minorities  
+*Long Essay Due* - *No Exam Fall Semester*
 
 **Semester Two:**
 
 Week 1 - Broadening Theoretical Approaches  
-Week 2 - Migration and Minorities  
-    *Gobbets Due*  
-Week 3 - Transformations: Cities and Hinterland   
-Week 4 - “Second Cities”   
-Week 5 - Molding Colonial Spaces  
-Week 6 - Neighborhoods and Local Space  
-Week 7 - Architecture and Domestic Spaces  
-     *Spring Break*    
+Week 2 - Second Cities   
+*Gobbets Due*  
+Week 3 - Molding Colonial Spaces  
+Week 4 - Parks and Squares  
+Week 5 - Neighborhoods and Local Space  
+Week 6 - Architecture  
+Week 7 - Domestic Space  
+*Spring Break*    
 Week 8 - Transportation Within and Beyond the City  
 Week 9 - Spaces of Tourism   
 Week 10 - Commemoration, Preservation, and Memory  
 Week 11 - Cities Under Occupation  
-    *Long Essay Due*
+*Long Essay Due* - *Two Final Exams*
 
 ### Assessment Summary
 
+*All assignments due before midnight*
+
 **60% Coursework**  
-13 Oct - Gobbet Exercise 1 (10% of coursework)   
-1 Dec - Long Essay 1 (25% of coursework)  
-9 Feb - Gobbet Exercise 2 (10% of coursework)  
-27 Apr - Long Essay 2 (25% of coursework%)  
-2 Presentations (each 15% of coursework)
+Fri 19 Oct - Gobbet Exercise 1 (two gobbets, together worth 3%)   
+Fri 14 Dec - Long Essay 1 (24%)  
+Fri 8 Feb - Gobbet Exercise 2 (two gobbets, together worth 3%)  
+Fri 26 Apr - Long Essay 2 (24%)  
+Two Presentations (each 3% of coursework)
 
 **40% Exam**  
 2 Take-Home Examinations at the end of spring semester, 10 hours each
