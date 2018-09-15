@@ -28,7 +28,7 @@ Matthias Middell and Katja Naumann, “Global History and the Spatial Turn: From
 
 David Garrioch, “Sounds of the City: The Soundscape of Early Modern European Towns,” *Urban History* 30, no. 01 (2003): 5–25.
 
-Stoler, Ann Laura *Carnal Knowledge and Imperial Power: Race and the Intimate in Colonial Rule* Ch 3 "Carnal Knowledge and Imperial Power: Gender and Morality in the Making of Race" pp41-78 
+Stoler, Ann Laura *Carnal Knowledge and Imperial Power: Race and the Intimate in Colonial Rule* Ch 3 "Carnal Knowledge and Imperial Power: Gender and Morality in the Making of Race" pp41-78
 
 Shuishan Yu, “Redefining the Axis of Beijing Revolution and Nostalgia in the Planning of the PRC Capital,” *Journal of Urban History* 34, no. 4 (May 1, 2008): 571–608.
 
@@ -43,7 +43,7 @@ http://www.davidrumsey.com/
 
 Find a map of a city in East or Southeast Asia from 1850-1950 that you find interesting. Print it out or bring it in on your laptop/tablet for us to look at and be prepared to discuss what you think we can learn about the city from it. You can create a printable version with the "Export" button visible when viewing a map in the website's viewer.
 
-2. Choose a city to focus on for the semester from the list further up in the handbook. Poke around on JSTOR, Google Books, and the library to see if there are interesting articles and books on the city. Visit google maps and browse the city and street view (if available) for the city. Find its major landmarks and distinguishing features (major buildings, rivers, neighborhoods) and be ready to share your observations in class. Keep your notes on this for the task week 3. Note: The city focus doesn't have to be a city that you write about in your long essay and you can change your city in later weeks. 
+2. Choose a city to focus on for the semester from the list further up in the handbook. Poke around on JSTOR, Google Books, and the library to see if there are interesting articles and books on the city. Visit google maps and browse the city and street view (if available) for the city. Find its major landmarks and distinguishing features (major buildings, rivers, neighborhoods) and be ready to share your observations in class. Keep your notes on this for the task week 3. Note: The city focus doesn't have to be a city that you write about in your long essay and you can change your city in later weeks.
 
 ### Week 2 - Historical and Theoretical Approaches to Urban Space
 
@@ -126,7 +126,7 @@ Andrew Gordon, *A Modern History of Japan: From Tokugawa Times to the Present*, 
 
 ### Week 4: Pre-20th Cent. Beijing, Hansŏng and Edo
 
-**Primary Sources***
+**Primary Sources**
 
 *Peking and the Pekingese During the First Year of the British Embassy* (1865)
 
@@ -142,15 +142,15 @@ Charles Tilly, “What Good Is Urban History?,” *Journal of Urban History* 22 
 
 Lillian M. Li and Alison Dray-Novey, “Guarding Beijing’s Food Security in the Qing Dynasty: State, Market, and Police,” *The Journal of Asian Studies* 58, no. 4 (November 1, 1999): 992–1032
 
-Katô Takashi, “Edo in the Seventeenth Century: Aspects of Urban Development in a Segregated Society,” *Urban History* 27, no. 02 (2000): 189–210.
-
-W. J. Boot, “A Tale of Two Cities: Edo and Paris,” *Journal of the Economic and Social History of the Orient* 40, no. 1 (January 1, 1997): 90–106.
+Katō Takashi, “Edo in the Seventeenth Century: Aspects of Urban Development in a Segregated Society,” *Urban History* 27, no. 02 (2000): 189–210.
 
 “The Edo-Tokyo Transition: In Search of Common Ground,” [online](http://www.columbia.edu/~hds2/pdf/1986_Edo-Tokyo_Transition.pdf)
 
 Yun, Jieheerah *Globalizing Seoul: The City's Cultural and Urban Change* Routledge Ch 1 "A Brief Urban History of Seoul" - copy provided by me.
 
 **Further Reading**
+
+W. J. Boot, “A Tale of Two Cities: Edo and Paris,” *Journal of the Economic and Social History of the Orient* 40, no. 1 (January 1, 1997): 90–106.
 
 Boyd, Julia. *A Dance With the Dragon: The Vanished World of Peking’s Foreign Colony*. I.B.Tauris, 2012.
 
@@ -170,9 +170,9 @@ Steinhardt, Nancy Shatzman. *Chinese Imperial City Planning*. University of Hawa
 
 **Task**
 
-1. By this time you should have some concrete ideas for your essay. On the module moodle, please add a posting entitled "Week 4 Topic Idea: (Your Name): (Your Essay Topic)" a paragraph about one or two current long essay ideas you are exploring. Also include an indicative bibliography of 3-5 sources you are exploring, including at least one primary source. 
+1. By this time you should have some concrete ideas for your essay. On the module moodle, please add a posting entitled "Week 4 Topic Idea: (Your Name): (Your Essay Topic)" a paragraph about one or two current long essay ideas you are exploring. Also include an indicative bibliography of 3-5 sources you are exploring, including at least one primary source.
 2. Will you be needing any inter-library loans? They take time so put in the requests for them. If there are books you need that are available at the University of Edinburgh library or primary sources there or in other Scottish university collections, apply for a SCONUL card through the library. If the books are available in the national library of Scotland, bring a bill that has your address on it with you to the NLS if you decide to make a trip to Edinburgh to use the library.
-3. Continue looking at primary sources for your long essay. Be ready to introduce a primary source that you have looked at. 
+3. Continue looking at primary sources for your long essay. Be ready to introduce a primary source that you have looked at.
 
 ### Week 5: Treaty Ports and Foreign Concessions
 
@@ -273,9 +273,9 @@ Gordon, David. *Planning Twentieth Century Capital Cities*. New York; London: Ro
 
 Esherick, Joseph, ed. “Railway City and National Capital: Two Faces of the Modern in Changchun.” In Remaking the Chinese City: Modernity and National Identity, 1900-1950, Pbk. ed. Honolulu: University of Hawaiʻi Press, 2002.
 
-Liu, Yishi. “Competing Visions of the Modern: Urban Transformation and Social Change of Changchun, 1932-1957.” Ph.D., University of California, Berkeley, 2011. http://search.proquest.com/dissertations/docview/1525818580/abstract/F4F28D6930844EC0PQ/1?accountid=8312.
+Liu, Yishi. “Competing Visions of the Modern: Urban Transformation and Social Change of Changchun, 1932-1957.” Ph.D., University of California, Berkeley, 2011.
 
-Sewell, William Shaw. “Japanese Imperialism and Civic Construction in Manchuria: Changchun, 1905--1945.” Ph.D., The University of British Columbia (Canada), 2000. http://search.proquest.com/dissertations/docview/304673930/abstract/F4F28D6930844EC0PQ/2?accountid=8312.
+Sewell, William Shaw. “Japanese Imperialism and Civic Construction in Manchuria: Changchun, 1905--1945.” Ph.D., The University of British Columbia (Canada), 2000
 
 Esherick, Joseph, ed. “Yang Sen in Chengdu: Urban Planning in the Interior.” In *Remaking the Chinese City: Modernity and National Identity, 1900-1950*, Pbk. ed. Honolulu: University of Hawaiʻi Press, 2002.
 
@@ -285,7 +285,7 @@ Esherick, Joseph, ed. “Yang Sen in Chengdu: Urban Planning in the Interior.”
 
 ### Week 8: Source Focus - Shanghai and the SMPA; Law and Order
 
-* Read over the index of the SMPA and browse file structure
+* Read over the index of the SMPA and browse file structure - look also at the supplemental files discussing the archive.
 * Read "Introduction to the Shanghai Municipal Police Files" [Robert Bickers website on the SMPA](http://eis.bris.ac.uk/~hirab/smp2.html)
 
 **Secondary Reading**
@@ -296,9 +296,9 @@ Frederic Wakeman Jr., “Policing Modern Shanghai,” *The China Quarterly*, no.
 
 Isabella Jackson, “The Raj on Nanjing Road: Sikh Policemen in Treaty-Port Shanghai,” *Modern Asian Studies* 46, no. 06 (November 2012): 1672–1704
 
-Frederic E. Wakeman, *The Shanghai Badlands: Wartime Terrorism and Urban Crime, 1937-1941*, First Edition (Cambridge University Press, 1996), 1-92
-
 **Further Reading**
+
+Frederic E. Wakeman, *The Shanghai Badlands: Wartime Terrorism and Urban Crime, 1937-1941*, First Edition (Cambridge University Press, 1996), 1-92
 
 Erik W. Esselstrom, “Rethinking the Colonial Conquest of Manchuria: The Japanese Consular Police in Jiandao, 1909-1937,” *Modern Asian Studies* 39, no. 1 (February 1, 2005): 39–75.
 
@@ -369,7 +369,7 @@ Elizabeth J. Perry, *Shanghai on Strike: The Politics of Chinese Labor* (Stanfor
 
 Andrew Gordon, *Labor and Imperial Democracy in Prewar Japan* (University of California Press, 1992), 1-109.
 
-1. Contribute to the shared SMPA document and be ready to present on one of your shared documents. 
+1. Contribute to the shared SMPA document and be ready to present on one of your shared documents.
 2. You have only one major reading this week, use this time to focus on your long essay.
 
 **Further Reading**
@@ -427,13 +427,13 @@ Weiner, Michael. *Race and Migration in Imperial Japan*. Routledge, n.d.
 
 **Task**
 
-1. Contribute to the shared SMPA document and be ready to present on one of your shared documents. 
+1. Contribute to the shared SMPA document and be ready to present on one of your shared documents.
 
 ### Winter Break
 
 Over winter break, please read the following book:
 
-Calvino, Italo *Invisible Cities* - It is a short but powerful work, available in cheap paperback, set as a conversation between Marco Polo and Kublai Khan. Each chapter is no more than a few pages, and some are a single paragraph. 
+Calvino, Italo *Invisible Cities* - It is a short but powerful work, available in cheap paperback, set as a conversation between Marco Polo and Kublai Khan. Each chapter is no more than a few pages, and some are a single paragraph.
 
 Also, please choose one of the following, read a bit on their background, and read some of their stories, available in cheap paperback:  
 Eileen Chang (for example *Love in a Fallen City: And Other Stories* or *Lust, Caution: And Other Stories*)  
@@ -533,7 +533,7 @@ Theodore C. Bestor, *Neighborhood Tokyo* (Stanford University Press, 1990) (P)
 
 David Strand, *Rickshaw Beijing: City People and Politics in the 1920s* (Berkeley; London: University of California Press, 1993).
 
-### Week 6: Architecture 
+### Week 6: Architecture
 
 **Primary Sources**
 
@@ -618,7 +618,7 @@ Demay, Aline. *Tourism and Colonization in Indochina (1898-1939)*. Newcastle upo
 
 Joseph De Sapio *Modernity and Meaning in Victorian London Tourist Views of the Imperial Capital* (Basingstoke: Palgrave Macmillan, 2014).
 
-Mo, Yajun. “Itineraries for a Republic: Tourism and Travel Culture in Modern China, 1866--1954.” Ph.D., University of California, Santa Cruz, 2011 
+Mo, Yajun. “Itineraries for a Republic: Tourism and Travel Culture in Modern China, 1866--1954.” Ph.D., University of California, Santa Cruz, 2011
 
 ### Week 10: Commemoration, Preservation, and Memory
 
