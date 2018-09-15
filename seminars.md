@@ -415,7 +415,7 @@ O’Dwyer, Emer Sinéad. *Significant Soil: Settler Colonialism and Japan’s Ur
 
 Ryang, Sonia, and John Lie, eds. *Diaspora without Homeland: Being Korean in Japan*. 1st ed. University of California Press, 2009. (P)
 
-Uchida, Jun. “A Sentimental Journey: Mapping the Interior Frontier of Japanese Settlers in Colonial Korea.” The Journal of Asian Studies 70, no. 03 (August 2011): 706–29. 
+Uchida, Jun. “A Sentimental Journey: Mapping the Interior Frontier of Japanese Settlers in Colonial Korea.” The Journal of Asian Studies 70, no. 03 (August 2011): 706–29.
 
 ———. *Brokers of Empire: Japanese Settler Colonialism in Korea, 1876-1945*. Harvard University Asia Center, 2011.
 
@@ -452,6 +452,10 @@ Edward Case *The Fate of Place; A Philosophical History* Ch 12 "Giving a Face to
 Gaston Bachelard, *The Poetics of Space*, Introduction, Ch 1 "The House. From Cellar to Garret..." Ch 2 "House and Universe" Ch 9 "Dialects of Inside and Outside"
 
 [Harvard Design Magazine: The Poetics of Space by Gaston Bachelard](http://www.harvarddesignmagazine.org/issues/6/the-poetics-of-space-by-gaston-bachelard)
+
+**Further Reading**
+
+Edward W. Soja "The Socio-Spatial Dialectic" *Annals of the Association of American Geographers* 70, no 2 (1980)
 
 ### Week 2: “Second Cities”
 
@@ -598,15 +602,18 @@ Traganou, Jilly. *The Tōkaidō Road: Traveling and Representation in Edo and Me
 
 **Primary Sources**
 
-[Globetrotter's Japan: Foreigners on the Tourist Circuit in Meiji Japan: Places](http://ocw.mit.edu/ans7870/21f/21f.027/gt_japan_places/index.html)
+[Japan 1926](https://ndlonline.ndl.go.jp/#!/detail/R300000001-I000007403832-00) - Focus on descriptions of larger cities and overall travel advise.
 
+[Globetrotter's Japan: Foreigners on the Tourist Circuit in Meiji Japan: Places](http://ocw.mit.edu/ans7870/21f/21f.027/gt_japan_places/index.html)
 [Globetrotter's Japan: Foreigners on the Tourist Circuit in Meiji Japan: People](http://ocw.mit.edu/ans7870/21f/21f.027/gt_japan_people/ga1_essay01.html)
 
 **Secondary Sources**
 
-Miriam Rom Silverberg, *Erotic Grotesque Nonsense: The Mass Culture of Japanese Modern Times* (University of California Press, 2009), chapter "Asakusa Eroticism" [ebook](http://dx.doi.org/10.1525/california/9780520222731.001.0001)
+Silverberg, Miriam Rom *Erotic Grotesque Nonsense: The Mass Culture of Japanese Modern Times* (University of California Press, 2009), chapter "Asakusa Eroticism" [ebook](http://dx.doi.org/10.1525/california/9780520222731.001.0001)
 
-"Japanese Tourism to Korea, Circa 1940: The Tension between Tourism Promotion and Assimilation Policies" *Japan Focus* [Online](http://japanfocus.org/-Kenneth-Ruoff/3498/article.html)
+Shelley Baranowski et al., “Tourism and Empire,” *Journal of Tourism History* 7, no. 1–2 (May 4, 2015): 100–130, [DOI](https://doi.org/10.1080/1755182X.2015.1063709)
+
+MacDonald, Kate *Placing Empire: Travel and the Social Imagination in Imperial Japan* (University of California Press, 2017), Ch 1-2 and Ch 4 (open access [ebook](https://www.luminosoa.org/site/books/10.1525/luminos.34/))
 
 Ruoff, Kenneth J. *Imperial Japan at Its Zenith: The Wartime Celebration of the Empire’s 2,600th Anniversary*. Ithaca, N.Y: Cornell University Press, 2010, Ch 3-5 (82-147).
 
@@ -614,11 +621,35 @@ Ruoff, Kenneth J. *Imperial Japan at Its Zenith: The Wartime Celebration of the 
 
 * *If presenting do one of the (P) books below over an overview of Kenneth Ruoff's book as a whole above*
 
-Demay, Aline. *Tourism and Colonization in Indochina (1898-1939)*. Newcastle upon Tyne: Cambridge Scholars Publishing, 2014.
+Moon, Okpyo "Japanese Tourists in Korea: Colonial and Post-Colonial Encounters" in *Japanese Tourism and Travel Culture* (2009)
+
+Ryang, Sonia. “Japanese Travellers in Korea.” *East Asian History*, no. 13/14 (1997).
+
+Esherick, Joseph, ed. “Tourism and Spatial Change in Hangzhou, 1911–1927.” In *Remaking the Chinese City: Modernity and National Identity, 1900-1950*, Pbk. ed. Honolulu: University of Hawaiʻi Press, 2002.
+
+Urry, John and Jonas Larsen *The Tourist Gaze 3.0: Leisure and Travel in Contemporary Societies* (2011)
+
+"Japanese Tourism to Korea, Circa 1940: The Tension between Tourism Promotion and Assimilation Policies" *Japan Focus* [Online](http://japanfocus.org/-Kenneth-Ruoff/3498/article.html)
+
+Demay, Aline. *Tourism and Colonization in Indochina (1898-1939)*. Newcastle upon Tyne: Cambridge Scholars Publishing, 2014. (P)
 
 Joseph De Sapio *Modernity and Meaning in Victorian London Tourist Views of the Imperial Capital* (Basingstoke: Palgrave Macmillan, 2014).
 
-Mo, Yajun. “Itineraries for a Republic: Tourism and Travel Culture in Modern China, 1866--1954.” Ph.D., University of California, Santa Cruz, 2011
+Mo, Yajun. “Itineraries for a Republic: Tourism and Travel Culture in Modern China, 1866--1954.” Ph.D., University of California, Santa Cruz, 2011 (P)
+
+Barclay, Paul D.  “Peddling Postcards and Selling Empire: Image-Making in Taiwan under Japanese Colonial Rule,” *Japanese Studies* 30, no. 1 (May 1, 2010): 81–110, [DOI](https://doi.org/10.1080/10371391003639138).
+
+Pratt, Mary Louise. *Imperial Eyes: Travel Writing and Transculturation*. London [u.a.: Routledge, 2010.
+
+Nenzi, Laura Nenz Detto. *Excursions in Identity: Travel and the Intersection of Place, Gender, and Status in Edo Japan*. University of Hawaii Press, 2008. (P)
+
+Akiko, Yosano. *Travels in Manchuria and Mongolia*. Translated by Joshua A. Fogel. Columbia University Press, 2001.
+
+Buzard, James. *The Beaten Track: European Tourism, Literature, and the Ways to Culture, 1800 - 1918*. Oxford [u.a.: Clarendon Press, 2001.
+
+MacLean, Gerald M. *The Rise of Oriental Travel: English Visitors to the Ottoman Empire, 1580-1720*. Basingstoke [England]; New York: Palgrave Macmillan, 2006.
+
+Russian *Views of Japan, 1792-1913: An Anthology of Travel Writing*. RoutledgeCurzon Studies in the Modern History of Asia 23. London ; New York, NY: RoutledgeCurzon, 2004.
 
 ### Week 10: Commemoration, Preservation, and Memory
 
