@@ -5,9 +5,9 @@
 **Meets:** Fall and Spring 2018-9 Wed 10:00-13:00 St. Katharine's Lodge B3    
 **Office Hours:** Wed 13:00 (please sign up for a [time](https://goo.gl/Rh19wj) )
 
-### Description	
+### Description
 
-This module explores the development of urban spaces in 19th and 20th century East and South East Asia. It examines the economic, social, and political geographies of Asian cities in colonial, semi-colonial, and early post-colonial contexts as well as the way in which these cities and their residents are embedded in multiple local, regional, national, and transnational contexts. The first semester will allow students to work in depth with the rich digitized Shanghai Municipal Police Archive, and other English-language sources will include newspapers, diplomatic and trade archives, missionary and travel accounts, and some translated sources. 
+This module explores the development of urban spaces in 19th and 20th century East and South East Asia. It examines the economic, social, and political geographies of Asian cities in colonial, semi-colonial, and early post-colonial contexts as well as the way in which these cities and their residents are embedded in multiple local, regional, national, and transnational contexts. The first semester will allow students to work in depth with the rich digitized Shanghai Municipal Police Archive, and other English-language sources will include newspapers, diplomatic and trade archives, missionary and travel accounts, and some translated sources.
 
 ### Overview
 
@@ -59,7 +59,6 @@ Two Presentations (each 3% of coursework)
 
 ### Learning Outcomes
 
-* To gain the ability to analyse a variety of primary sources that each pose particular challenges and serious limitations in accessing a broad range of perspectives in the histories of Asian cities. 
+* To gain the ability to analyse a variety of primary sources that each pose particular challenges and serious limitations in accessing a broad range of perspectives in the histories of Asian cities.
 * To develop the ability to balance the need for deep empirical research that appreciates rich local contexts while answering historical problems that explore comparative, transnational, and global connections.
-* To apply interdisciplinary approaches to the history of urban space while developing a strong theoretical grounding in the multiple scales and understandings of space in history. 
-
+* To apply interdisciplinary approaches to the history of urban space while developing a strong theoretical grounding in the multiple scales and understandings of space in history.
