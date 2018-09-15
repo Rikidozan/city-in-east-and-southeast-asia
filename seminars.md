@@ -98,21 +98,27 @@ Harvey, David. *Social Justice and the City*. Athens: University of Georgia Pres
 
 **Primary Sources**
 
-Treaty of Nanjing
+"Treaty of Nanjing" [PDF online](http://libdb1.npm.gov.tw/ttscgi/capimg2.exe?1:121345731:910000108001-0-0.pdf)
 
-Sophia Raffles, *Memoir of the Life and Public Services of Sir Thomas Stamford Raffles* (London: James Duncan, 1835).
+*Foundation Of The Singapore Institution*, 1823 [Archive.org](https://archive.org/details/FoundationOfTheSingaporeInstitution1823) (34 pages)
 
-*Foundation Of The Singapore Institution*, 1823
+Sophia Raffles, *Memoir of the Life and Public Services of Sir Thomas Stamford Raffles* (London: James Duncan, 1835). [Archive.org](https://archive.org/details/memoiroflifepubl00raff) Ch VI-VIII, pp132-268 - skim as necessary
 
 **Secondary Reading**
 
-[Rise and Fall of the Canton System](http://ocw.mit.edu/ans7870/21f/21f.027/rise_fall_canton_03/index.html) - (Also primary sources here) Please note that there are multiple pages here - read and look at each of them. Inspect the historical paintings and photographs in the Image Galleries and choose at least one or two to discuss in class.
+*Read either in detail on the China side:*
+
+[Rise and Fall of the Canton System](http://ocw.mit.edu/ans7870/21f/21f.027/rise_fall_canton_03/index.html) - (Also primary sources here) Please note that there are multiple pages here - Inspect the historical paintings and photographs in the Image Galleries and choose at least one or two to discuss in class.
+
+John King Fairbank, *Trade and Diplomacy on the China Coast: The Opening of the Treaty Ports, 1842-1854* (Harvard University Press, 1953), 1-56
+
+*Or on the Japanese side:*
 
 Michael R. Auslin, *Negotiating with Imperialism: The Unequal Treaties and the Culture of Japanese Diplomacy* (Harvard University Press, 2009), 12-60
 
-Andrew Gordon, *A Modern History of Japan: From Tokugawa Times to the Present*, 2nd ed. (Oxford University Press, USA, 2008), 46-137
+If you have not studied Japanese history before:
 
-John King Fairbank, *Trade and Diplomacy on the China Coast: The Opening of the Treaty Ports, 1842-1854* (Harvard University Press, 1953), 1-56
+Andrew Gordon, *A Modern History of Japan: From Tokugawa Times to the Present*, 2nd ed. (Oxford University Press, USA, 2008), 46-137 (Ch 4 Overthrow of the Tokugawa through and including Ch 8 Empire and Domestic Order)
 
 **Task**
 
@@ -194,6 +200,8 @@ Eileen P. Scully, “Prostitution as Privilege: The ‘American Girl’ of Treat
 Bremner, G. Alex, and David P. Y. Lung. “Spaces of Exclusion: The Significance of Cultural Identity in the Formation of European Residential Districts in British Hong Kong, 1877 - 1904.” *Environment and Planning D: Society and Space 21*, no. 2 (2003): 223–52. doi:10.1068/d310.
 
 **Further Reading**
+
+Guan, Yeoh Seng et al. *Penang and Its Region: The Story of an Asian Entrepôt*
 
 Shanghai's Lens on the New: [I](http://ocw.mit.edu/ans7870/21f/21f.027/dianshizhai/index.html), [II](http://ocw.mit.edu/ans7870/21f/21f.027/dianshizhai_02/index.html), [III](http://ocw.mit.edu/ans7870/21f/21f.027/dianshizhai_03/index.html)
 
@@ -294,6 +302,8 @@ Frederic E. Wakeman, *The Shanghai Badlands: Wartime Terrorism and Urban Crime, 
 
 Erik W. Esselstrom, “Rethinking the Colonial Conquest of Manchuria: The Japanese Consular Police in Jiandao, 1909-1937,” *Modern Asian Studies* 39, no. 1 (February 1, 2005): 39–75.
 
+Fong, Leong Yee "Secret Societies and Policies in Colonial Malaya with Special Reference to the Ang Bin Hoey in Penang (1945-1952)" in Guan, Yeoh Seng et al. *Penang and Its Region: The Story of an Asian Entrepôt*
+
 **Task**
 
 1. Contribute to our shared SMPA document and be ready to present on one of your chosen documents. We will discuss how to do this in class the week before.
@@ -316,11 +326,15 @@ Harald Fuess, “Informal Imperialism and the 1879 ‘Hesperia’ Incident: Cont
 
 Hoshino, Takanori. “Transition to Municipal Management: Cleaning Human Waste in Tokyo in the Modern Era.” *Japan Review*, no. 20 (January 1, 2008): 189–202.
 
+Dane Keith Kennedy, *The Magic Mountains: Hill Stations and the British Raj* (Berkeley; London: University of California Press, 1996).
+
 Sutphen, Mary P. “Not What, but Where: Bubonic Plague and the Reception of Germ Theories in Hong Kong and Calcutta, 1894–1897.” *Journal of the History of Medicine and Allied Sciences* 52, no. 1 (January 1, 1997): 81–113. https://doi.org/10.1093/jhmas/52.1.81.
 
 Ma, Shu-Yun. “The Making and Remaking of a Chinese Hospital in Hong Kong.” *Modern Asian Studies* 45, no. 5 (September 2011): 1313–36. doi:10.1017/S0026749X10000107.
 
 Ruth Rogaski, *Hygienic Modernity: Meanings of Health and Disease in Treaty-Port China* (Berkeley: University of California Press, 2004)
+
+Siniawer, Eiko Maruko *Waste: Consuming Postwar Japan* (2018)
 
 Bu, Liping, Darwin H. Stapleton, and Ka-Che Yip. *Science, Public Health and the State in Modern Asia*. Routledge, 2012.
 
@@ -358,17 +372,22 @@ Andrew Gordon, *Labor and Imperial Democracy in Prewar Japan* (University of Cal
 1. Contribute to the shared SMPA document and be ready to present on one of your shared documents. 
 2. You have only one major reading this week, use this time to focus on your long essay.
 
+**Further Reading**
+
+Hong, Tan Kim "Riding the Storms: Radicalization of the Labour Party of Malaya, Penang Division, 1963-1969" Guan, Yeoh Seng et al. *Penang and Its Region: The Story of an Asian Entrepôt*
+
+S. A Smith, *Like Cattle and Horses: Nationalism and Labor in Shanghai, 1895-1927* (Durham [N.C.]: Duke University Press, 2002).
+
+
 ### Week 11: Migration and Minorities
 
 * Selected SMPA files
 
 **Secondary Sources**
 
-Eric Han, “A True Sino-Japanese Amity? Collaborationism and the Yokohama Chinese (1937–1945),” *The Journal of Asian Studies* 72, no. 03 (August 2013): 587–609
-
-Toby Lincoln, “Fleeing from Firestorms: Government, Cities, Native Place Associations and Refugees in the Anti-Japanese War of Resistance,” *Urban History* 38, no. Special Issue 03 (2011): 437–56
-
 Goodman, Bryna *Native, Place, City, and Nation: regional networks and identities in Shanghai, 1853-1937* pp4-23 and pp29-41 in Introduction
+
+Eric Han, “A True Sino-Japanese Amity? Collaborationism and the Yokohama Chinese (1937–1945),” *The Journal of Asian Studies* 72, no. 03 (August 2013): 587–609
 
 Emily Honig, “The Politics of Prejudice: Subei People in Republican-Era Shanghai,” *Modern China* 15, no. 3 (July 1, 1989): 243–74.
 
@@ -380,27 +399,31 @@ Michael Weiner, *Japan’s Minorities: The Illusion of Homogeneity* (London; New
 
 * *(P) Presentation opportunities)*
 
+Toby Lincoln, “Fleeing from Firestorms: Government, Cities, Native Place Associations and Refugees in the Anti-Japanese War of Resistance,” *Urban History* 38, no. Special Issue 03 (2011): 437–56
+
+Virunha Chuleeporn "From Regional Entrepôt to Malayan Port: Penang's Trade and Trading Communities, 1890-1940" in Guan, Yeoh Seng et al. *Penang and Its Region: The Story of an Asian Entrepôt*
+
 Kawashima, Ken C. The Proletarian Gamble: Korean Workers in Interwar Japan. Duke University Press, 2009. (P)
 
 Christian Henriot, “Shanghai and the Experience of War. the Fate of Refugees,” *European Journal of East Asian Studies* 5, no. 2 (January 1, 2006): 215–45.
 
-Kratoska, Paul H. Asian Labor in the Wartime Japanese Empire: Unknown Histories. Armonk, N.Y: Sharpe, 2005.
+Kratoska, Paul H. *Asian Labor in the Wartime Japanese Empire: Unknown Histories*. Armonk, N.Y: Sharpe, 2005.
 
-Lie, John. Multiethnic Japan. Cambridge, Mass.; London: Harvard University Press, 2004.
+Lie, John. *Multiethnic Japan*. Cambridge, Mass.; London: Harvard University Press, 2004.
 
-O’Dwyer, Emer Sinéad. Significant Soil: Settler Colonialism and Japan’s Urban Empire in Manchuria. Harvard East Asian Monographs ; 377. Cambridge, Massachusetts: Harvard University Asia Center, 2015. (P)
+O’Dwyer, Emer Sinéad. *Significant Soil: Settler Colonialism and Japan’s Urban Empire in Manchuria*. Harvard East Asian Monographs ; 377. Cambridge, Massachusetts: Harvard University Asia Center, 2015. (P)
 
-Ryang, Sonia, and John Lie, eds. Diaspora without Homeland: Being Korean in Japan. 1st ed. University of California Press, 2009. (P)
+Ryang, Sonia, and John Lie, eds. *Diaspora without Homeland: Being Korean in Japan*. 1st ed. University of California Press, 2009. (P)
 
-Uchida, Jun. “A Sentimental Journey: Mapping the Interior Frontier of Japanese Settlers in Colonial Korea.” The Journal of Asian Studies 70, no. 03 (August 2011): 706–29. doi:10.1017/S0021911811000878.
+Uchida, Jun. “A Sentimental Journey: Mapping the Interior Frontier of Japanese Settlers in Colonial Korea.” The Journal of Asian Studies 70, no. 03 (August 2011): 706–29. 
 
-———. Brokers of Empire: Japanese Settler Colonialism in Korea, 1876-1945. Harvard University Asia Center, 2011.
+———. *Brokers of Empire: Japanese Settler Colonialism in Korea, 1876-1945*. Harvard University Asia Center, 2011.
 
 ———. “The Public Sphere in Colonial Life: Residents’ Movements in Korea Under Japanese Rule.” Past & Present 220, no. 1 (August 1, 2013): 217–48. doi:10.1093/pastj/gtt002.
 
-Weiner, Michael. Race and Migration in Imperial Japan. Routledge, n.d.
+Weiner, Michael. *Race and Migration in Imperial Japan*. Routledge, n.d.
 
-———. Race, Ethnicity and Migration in Modern Japan: Indigenous and Colonial Others. Taylor & Francis, 2004.
+———. *Race, Ethnicity and Migration in Modern Japan: Indigenous and Colonial Others*. Taylor & Francis, 2004.
 
 **Task**
 
