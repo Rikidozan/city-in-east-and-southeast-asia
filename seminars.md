@@ -512,11 +512,22 @@ David Strand, *Rickshaw Beijing: City People and Politics in the 1920s* (Berkele
 
 ### Week 6: Architecture
 
-**Primary Sources**
+**Primary Sources** (~60)
 
-* Selected drawings and images, brought by Konrad
+Tanizaki, Junichiro. *In Praise Of Shadows*. New Ed edition. London: Vintage Classics, 2001 (about 50pp)
 
-**Secondary Sources**
+Engel, Heino *Measure and Construction of the Japanese Home* - Examine the images, including pp20-1,28,29-30,37,40-1,44-59,63-67
+
+**Secondary Sources** (~165)
+
+*Cambridge History of Japan* Vol. 6, 20th century, section on Tanizaki Junichiro in Ch 14, pp752-754.
+
+Engel, Heino *Measure and Construction of the Japanese Home*, Introduction pp13-14,22-33, 42-59, 109-117
+
+Jordan Sand, *House and Home in Modern Japan: Reforming Everyday Life 1880-1930* (Cambridge, Mass.; London: Harvard University Press, 2005), Ch 8 "House Design and the Mass Market" pp263-287
+
+Morse, Edward S. *Japanese Homes and Their Surroundings* (1886) [archive.org](https://archive.org/details/japanesehomesthe00mors/page/n8), Ch 2 pp45-77, Ch 5 pp234-272, Ch 9 pp343-348 (~75pp but a fast read)
+
 
 Reynolds, Jonathan M. "Japan's Imperial Diet Building in the Debate over Constitution of a National Identity" in Alan Tansman ed. *The Culture of Japanese Fascism* pp254-275
 
