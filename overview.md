@@ -32,7 +32,7 @@ Week 1 - Broadening Theoretical Approaches
 Week 2 - Second Cities and Cities in Motion   
 *Primary Source Essay Due*  
 Week 3 - Molding Colonial Spaces  
-Week 4 - Parks and Squares  
+Week 4 - Parks, Gardens, and Squares  
 Week 5 - Neighborhoods and Local Space  
 Week 6 - Architecture  
 Week 7 - Domestic Space  
