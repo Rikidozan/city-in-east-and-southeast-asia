@@ -49,8 +49,6 @@ http://www.davidrumsey.com/
 
 Find a map of a city in East or Southeast Asia from 1850-1950 that you find interesting. Print it out or bring it in on your laptop/tablet for us to look at and be prepared to discuss what you think we can learn about the city from it. You can create a printable version with the "Export" button visible when viewing a map in the website's viewer.
 
-2. Choose a city to focus on for the semester from the list further up in the handbook. Poke around on JSTOR, Google Books, and the library to see if there are interesting articles and books on the city. Visit google maps and browse the city and street view (if available) for the city. Find its major landmarks and distinguishing features (major buildings, rivers, neighborhoods) and be ready to share your observations in class. Keep your notes on this for the task week 3. Note: The city focus doesn't have to be a city that you write about in your long essay and you can change your city in later weeks.
-
 ### Week 2 - Historical and Theoretical Approaches to Urban Space
 
 **Required Readings**
@@ -106,7 +104,7 @@ Harvey, David. *Social Justice and the City*. Athens: University of Georgia Pres
 
 **Task**
 
-1. This week is a challenging on. Read all of the required readings, but bring to class a handout with organised notes on one of the following: Levebvre, de Certeau, or Massey. Be ready to answer questions about what certain difficult keywords mean, and what certain challenging sentences may have meant. As you read these theoretical texts, you may not find all of it useful or without contradiction but read with a sympathetic approach, asking yourself what might be helpful take aways from this that may come to help guide you as you read about cities in more concrete scholarship.
+1. This week is a challenging one. Be ready to answer questions about what certain difficult keywords mean, and what certain challenging sentences may have meant. As you read these theoretical texts, you may not find all of it useful or without contradiction but read with a sympathetic approach, asking yourself what might be helpful take aways from this that may come to help guide you as you read about cities in more concrete scholarship.
 
 ### Week 3 Background: 19th to 20th East and Southeast Asia
 
