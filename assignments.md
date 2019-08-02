@@ -1,3 +1,5 @@
+\pagebreak
+
 ## Assignments
 
 The assessed portion of the coursework for this module consists of a total of four gobbets (two each semester), two long essays (one each semester), two presentations (one each semester). In addition, students are required to come prepared each week having completed the assigned reading and prepared to discuss them. Most weeks students will also be asked to do short unassessed presentations 10 or less minutes each.
@@ -33,25 +35,25 @@ In your bibliography, please have separate sections for your secondary sources a
 
 If you prefer **and do so consistently**, you may use the Chicago Style (Notes and Bibliography) over the St Andrews note formatting. I encourage you to manage your sources in a referencing tool such as [Zotero](https://www.zotero.org/) which makes it easy to automatically generate formatted notes and bibliography if you have the correct information for each source.
 
-### Gobbet Exercise
+### Primary Source Essay
 
-In each of the two semesters students will be asked to submit two gobbets, or source analysis essays. Each individual gobbet may not exceed 500 words in length. Each pair of gobbets together account for 3% (1.5% + 1.5%) of your overall mark for the module.
+In each of the two semesters students will be asked to submit a short 1,000 word analytical essay that analyses a primary source. 
 
-* Selecting a source: The student may select a source related to their long essay research, from the primary sources assigned during the semester, but from beyond the assigned portion (a different page range, another part, another volume etc.), or with approval of the tutor, a source of interest to the student. The source may be visual (a map, photograph, drawing, etc.) or textual but no more than one visual source per two gobbet assignment. You may choose from among assigned primary sources but then they must 1) each come from different weeks 2) and may not come from an assigned part of the primary source (selecting a part from a different part of the source outside of the assigned pages, for example, is permitted). The full body of the source must be included at the top of the essay, and the selected source text must not exceed 500 words, preceded by a citation and, in the event the source is a completely original one chosen by the student, a brief sentence or two describing what precedes/follows the selected fragment (up to 100 words).
+* Selecting a source: The student may select a source related to their long essay research, from the primary sources assigned during the semester, but from beyond the assigned portion (a different page range, another part, another volume etc.), or with approval of the tutor, a source of interest to the student. The source may be visual (a map, photograph, drawing, etc.) or textual. The full body of the source must be included at the top of the essay, preceded by a citation. You may not choose one of the sources we have consulted in class.
 
-* Writing the gobbet: Your goal in the gobbet is to draw out the revealing features of a short source and demonstrate your abilities for analysis. A good gobbet will:
-    * it will identify the document and context (including its language, whether the text provided is a translation, and the place where this document was done), its purpose and the main characters involved;
+* Writing the primary source essay: Your goal in the essay is to draw out the revealing features of a source and demonstrate your abilities for analysis. A good primary source essay will:
+    * it will identify the source and context (including its language, whether the text provided is a translation, and the place where this document was done), its purpose and the main characters involved;
     * it will comment on the particular point or points raised in the extract (ask yourself, why was this extract set?);
-    * it will explain any distinctive words or phrases
+    * it will explain any distinctive words or phrases or visual features
     * it will then, towards the end, comment more discursively on some of the broader issues involved. Is this a true or accurate narrative of events? Are the hopes of the protagonist ultimately realised? Where does this extract fit into the wider context of what we know from our sources?
-    * Try to make about four to five points. Avoid an over-lengthy introduction; get to the point quickly, do not simply rephrase the wording of the gobbet, and make sure that you analyse it.
-    * For those of you also taking literature modules in other Schools, please note that history gobbets are less an exercise in textual criticism and much more an attempt to get to the heart of the issues contained within a document, and the issues concerning the nature of the document itself.
+    * Try to make about four to five points. Avoid an over-lengthy introduction; get to the point quickly, do not simply rephrase the wording of the source itself, and make sure that you analyse it.
+    * For those of you also taking literature modules in other Schools, please note that history primary source essays and gobbets are less an exercise in textual criticism and much more an attempt to get to the heart of the issues contained within a document, and the issues concerning the nature of the document itself.
 
 ### Long Essay
 
-The two long essays for the course are each worth 24% of the overall mark for the module and should be 4,000-6,000 words long. However, longer long essays up to full academic article length is permitted if you clear this with me beforehand. The process of composing an essay of this length is made far easier if make steady progress throughout the semester rather than face potential panic and disappointment nearer the deadline. Narrow down an area of interest, read within this area of interest, isolate a few questions of interest, carry out further reading and analysis, and then proceed to write an essay which makes a convincing historical argument. The Long Essay should be primary source driven.
+The two long essays for the course are the highest value assessments for the module and should be 6,000 words long. There will, however, not be a length penalty on submitted essays up to 8,000 words if you wish to write something in even greater depth (thereafter the 10% rule applies). The process of composing an essay of this length is made far easier if make steady progress throughout the semester rather than face potential panic and disappointment nearer the deadline. Narrow down an area of interest, read within this area of interest, isolate a few questions of interest, carry out further reading and analysis, and then proceed to write an essay which makes a convincing historical argument. The Long Essay should be primary source driven.
 
-This module is a module on the history of cities but also a spatial history module. You may choose to write about some aspect a city, a part of a city, comparisons between cities, some aspect of life within a city, but also you are most welcome to write an essay which has a strongly spatial theme. Other East or Southeast Asia essay topics that you would like to write about but you are worried may fall outside the scope of the module will usually be approved, just check with me first.
+This module is a module on the history of cities but also a spatial history module. You may choose to write about some aspect a city, a part of a city, comparisons between cities, some aspect of life within a city, but also you are most welcome to write an essay which has a strongly spatial theme. In this module we study spaces from the scale of the domestic space of a home up to a regional scale. If there are other East or Southeast Asia essay topics that you would like to write about but you are worried may fall outside the scope of the module will usually be approved, just check with me first.
 
 ### Choosing a Long Essay Topic
 
@@ -158,25 +160,78 @@ Unless otherwise indicated, work will considered submitted by the date the docum
 
 Feedback is generally provided directly on the mark sheet, which will be posted to the MMS within 10 work days (2 weeks). Presentations, however, are marked in bundles with feedback out by the end of week 5 and week 11. Depending on assignment, there may be additional feedback provided in the margins of the original essay. If that is the case, you will find two files uploaded with your mark.
 
+### Assessed Presentations
 
-### Two Assessed Presentations
+Most weeks of the semester students will be given and opportunity to present a summary, critique, and raise some discussion questions based on supplementary readings. Two such presentations for each student will be given more time and assessed formally, at least one should be a reading presentation and at least one is a seminar lead presentation. Each of your presentations will be worth 5% of your overall mark for the module. You may volunteer to give more than one reading presentations (but must give the presentation if you commit to it). If you do two or three reading presentations (instead of two) your best presentation will have its mark recorded.
 
-Most weeks of the semester students will be given and opportunity to present a summary, critique, and raise some discussion questions based on supplementary readings. Two such presentations for each student will be given more time and assessed formally. Each of your presentations will be worth 3% of your overall mark for the module. 
+**Reading Presentation:** a reading presentation should be 15 minutes in length and not a minute longer. It may focus on a single author monograph listed in required, elective or the "Further Reading" section for the week and labelled with a (P). If we have been assigned only a portion of this reading, you should still make your presentation on the work as a whole. It should summarise the main arguments, and make 1-3 to focused critiques or observations about the read material. A supplementary handout (1-2 pages at most) should be uploaded to the MMS and also copies of it brought that includes some bullet points from the summary, any key persons or dates, and a few questions about the themes in the reading to kick off our discussion. You may optionally give a second or third reading presentation during the year.
 
-**Fall Presentation:** the fall assessed presentation should be 15 minutes in length and not longer. It may focus on a single author monograph or a collection of articles (but this is more difficult and you should consider focusing on several chapters that have good connections between them) from among the assigned required or supplementary readings for each week. It should summarise the main arguments, and make 1-3 to focused critiques or observations about the read material. A supplementary handout (1-2 pages at most) should be uploaded to the MMS and also copies of it brought that includes some bullet points from the summary, any key persons or dates, and a few questions about the themes in the reading to kick off our discussion.
+**Seminar Lead Presentation:** In a seminar lead presentation you will lead the seminar discussion for 30-45 minutes. Focusing on the assigned readings, you may speak for 5-10m about some of the readings and their context, if you wish, and you may run the remainder of the time as you see most appropriate. This may include: asking questions and moderating the discussion that follows; carrying out specific tasks or games related to the readings; bringing in a supplemental primary source (perhaps one mentioned or related to those mentioned in one or more reading) and working with the class on reading it and analysing it; asking students to discuss questions in pairs or groups; and so on. You may also ask students to perform a task in preparation for the seminar, including interacting with the moodle, as you see fit. I may participate in some of the activity and discussion but also need to hang back a bit to observe and take notes for marking purposes. The purpose of this exercise is to give you a taste of the challenges of running a seminar, keeping students engaged, getting students to more actively participate, drawing out important points from the reading, and showing a good mastery of the material for the day.
 
-**Spring Presentation:** In the spring you will lead the seminar discussion for one hour. Focusing on the assigned readings, you may speak for 5-10m about some of the readings and their context, if you wish, and you may run the remainder of the hour as you see most appropriate. This may include: asking questions and moderating the discussion that follows; carrying specific tasks or games related to the readings; bringing in a supplemental primary source (perhaps one mentioned or related to those mentioned in one or more reading) and working with the class on reading it and analysing it; asking students to discuss questions in pairs or groups; and so on. You may also ask students to perform a task in preparation for the seminar, including interacting with the moodle, as you see fit. I may participate in some of the activity and discussion but also need to hang back a bit to observe and take notes. The purpose of this exercise is to give you a taste of the challenges of running a seminar, keeping students engaged, getting students to more actively participate, drawing out important points from the reading, and showing a good mastery of the material for the day.
+**Important**: In addition to these assessed presentation, you will often be asked to make short non-assessed presentations, usually 5 minutes or less in length throughout the year on your elective readings. Your weekly handout will be a guide for me to ask you about the contents. 
 
-Important: In addition to these assessed presentation, you will often be asked to make short non-assessed presentations, usually 5-10 minutes or so in length throughout the year on some of the readings assigned. Volunteers will usually be asked and handouts are not required but are welcome for these presentations. Again, these shorter presentations are not assessed. 
-
-Questions to ask yourself as you prepare your presentation:
+Questions to ask yourself as you prepare your assessed presentations:
 
 * Did the distributed handout of one or at most two pages accurately summarize the general points to be made in the presentation in the form of concise bullet points
-* Did I upload the handout to MMS before giving my presentation?
+* Did I upload the handout to the moodle before giving my presentation?
 * If appropriate, did the handout include any important dates, sources, or a map for the discussion?
 * Did the handout include 1-3 discussion questions?
-* Was the 15 minute limit strictly observed in the presentation?
+* Was the time limit strictly observed in the presentation?
 * Was the presentation well structured, organized, and focus on a few key points?
+* Did I have good eye contact with students when I presented?
 * Was there a good balance of arguments and a few examples to support them?
 * When I led the seminar did I help draw out important arguments and points from the reading for discussion?
-* Did I ensure that all students were able to participate in discussion?
+* Did I ensure that all students were able to participate in discussion for seminar lead presentations?
+
+## Blog Entries
+
+We have a module website at:
+
+[http://spatialhistory.net/cities/](http://spatialhistory.net/cities/)
+
+This is a public facing website where students will contribute postings, but no students will be asked to use their real name. You can set or change your pseudonym through the blog interface whenever you like. Students are required to post a **minimum of eight postings** during the year, and these postings must be **posted across eight different weeks** and **at least four postings done in the first semester**. There is flexibility on the content: you may freely post on readings from before or after the week posted, and may have more than one posting related to material from a single week. The total number of words posted across the year must be a minimum of 5,000 words posted (for example, 8 postings with 750 words, or more postings but shorter in length).  
+
+At the end of the year, you should copy and paste eight selected blog postings (Note: although you must have posted at least 5,000 words across the year, your chosen eight postings for submission may total less than that overall since you could have posted more than eight postings during the year), including their titles, links to the online version, and the date they were posted online into a document and upload this document to the MMS. The postings must already be on the blog, and cannot be new postings produced for the submission. Points for the overall mark will be the average of the mark on the eight selected and submitted postings. Each posting will not receive specific feedback but instead receive a mark based on the cumulative score according to the following simple criteria, which are judged to be *either present or absent* (no partial marks):
+
+* 5 points if the posting makes a clear analytical point
+* 4 points if the posting makes concrete references to particular parts of a reading, with a footnote
+* 3 points if the posting was well-written in terms of language
+* 3 points if the posting was relevant to assigned readings or further readings
+* 3 points if the posting keeps a good focus throughout.
+* 2 additional points will be given for postings that are of a high quality
+
+A decent posting, with no significant flaws, should, therefore, get a score of 18. Particularly strong postings may garner 20s. *Example:* A student writes 10 postings during the semester totalling 7,000 words. They select 8 of these, including 2 high quality post of 600 words (20), 5 posts that meet the requirements, (500 words x 2, 600 words x 2, 700 words x 1, each getting 18), and 1 post of 900 words that follows all the above but did not maintain a clear focus (18-3=15), then the overall blog mark would come to (20+20+18+18+18+18+18+15)/4 = 18.1
+
+**How to Post Blog Entries:** You will be given details for your login information late in the first week. Then to login, go to:
+
+[http://spatialhistory.net/cities/post/](http://spatialhistory.net/cities/post/)
+
+- Use your login user name and password.
+- From there, on the left hand sidey ou can choose "Add New" from the "Posts" menu.
+- There, give your posting a title
+- add a few tags on the right side without any caps, for example "japan, 20th century, domestic space, kitchens, advertising" that indicate things like place, time, people, topics that are relevant to your posting (all without caps).
+- Write your blog posting in the middle
+- When you have a quote or refer to a text, you must add a footnote by enclosing the footnote countents in double parenthesis. You must leave a space before the first and after the last parenthesis. Example: Here is some text. ((And here is the footnote contents with a space before it))
+- Don't worry about adding categories.
+- You can "preview" your posting if you want to read it over and look for mistakes with a nicer view.
+- When you are happy with the posting, click "Publish" or save the draft if you wish to return to it later
+- You can always return to postings by going to "Posts" on the left and "All Posts"
+
+**What to Write:**
+
+- Your postings should ideally each aim to be between 300-1,000 words but you won't be penalised for something longer on word count alone. 
+- The posts should have a single overarching purpose and unified focus
+- The posts should be primarily focused on material in the elective or further readings, and may only be from the required set readings if it is a primary source. It may refer to additional readings if they are part of your research for your long essay.
+- Avoid vague references to what you like and don't like; what you found interesting or not interesting - unless you follow this up with concrete and specific reasons why something is interesting or valuable.
+- Be concise and avoid repetition. 
+
+Here are some ideas of what make good postings (but you aren't limited to this):
+
+- Focus in on a passage in a primary source, quote part of the passage (try not to make the quote too long) in the posting and then offer a reflection on it. Blog posts are great places to practice your skills for the primary source essay.
+- Same as above, but instead of just offering a reflection, put that passage into meaningful conversation with another secondary or primary reading we did either this week or another week.
+- Describe or synthesise a point that you find important or interesting from a secondary reading and say why you think it is important.
+- Put the arguments of two secondary sources into dialogue with each other
+- Reflect on some of the theoretical readings we have done and how they might apply to a case study we have looked at.
+- Reflect on how the arguments of a text might contribute to our understanding of some other clase in another place or time
+- Write a posting on the use of language or terms in a source and why you think it is meaningful or important
+- Write a posting around a certain pattern you see across multiple texts

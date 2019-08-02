@@ -22,18 +22,24 @@ Spence, Jonathan D. *The Search for Modern China*, 2013.
 
 ### Week 1 - Impressions: Asian Cities Today
 
-**Readings**
+**Required Readings**
+
+Lewis Mumford "What is a City?" in Richard T. LeGates and Frederic Stout, *The City Reader*, 5th edition (London ; New York: Routledge, 2011).
 
 Matthias Middell and Katja Naumann, “Global History and the Spatial Turn: From the Impact of Area Studies to the Study of Critical Junctures of Globalization,” *Journal of Global History* 5, no. 01 (2010): 149–170.
 
 David Garrioch, “Sounds of the City: The Soundscape of Early Modern European Towns,” *Urban History* 30, no. 01 (2003): 5–25.
 
-Stoler, Ann Laura *Carnal Knowledge and Imperial Power: Race and the Intimate in Colonial Rule* Ch 3 "Carnal Knowledge and Imperial Power: Gender and Morality in the Making of Race" pp41-78
+Stoler, Ann Laura *Carnal Knowledge and Imperial Power: Race and the Intimate in Colonial Rule* Ch 3 "Carnal Knowledge and Imperial Power: Gender and Morality in the Making of Race" pp41-78 (P)
 
 Shuishan Yu, “Redefining the Axis of Beijing Revolution and Nostalgia in the Planning of the PRC Capital,” *Journal of Urban History* 34, no. 4 (May 1, 2008): 571–608.
 
 Henry Smith “Tokyo as an Idea: An Exploration of Japanese Urban Thought Until 1945” *Journal of Japanese Studies* vol. 4 no. 1 (Winter 1978), 45-80.
 http://www.columbia.edu/~hds2/pdf/1978_Tokyo_as_an_Idea.pdf
+
+Charles Tilly, “What Good Is Urban History?,” *Journal of Urban History* 22 (September 1996): 702–19.
+
+*There are no elective readings today and no need for a weekly handout.*
 
 **Task**
 
@@ -47,34 +53,44 @@ Find a map of a city in East or Southeast Asia from 1850-1950 that you find inte
 
 ### Week 2 - Historical and Theoretical Approaches to Urban Space
 
-**Readings**
+**Required Readings**
+
+Amin, Ash and Nigel Thrift *Cities: Reimagining the Urban* 2002. Ch 1 only p26-30 "A Basic Ontology" (P)
 
 "Plan of the Present Work" in Henri Lefebvre *The Production of Space*, pp. 1-67.  
 NOTE: Read this closely and carefully, and read through it again after you read the next two texts:
 
 David Harvey "Space as a Keyword" and Sharon Zukin "David Harvey on Cities" in Noel Castree and Derek Gregory, *David Harvey: A Critical Reader* (Wiley, 2006), 102-120, 270-293.
 
-"Space" in Andy Merrifield, *Henri Lefebvre: A Critical Introduction* (Taylor & Francis, 2006), 99-120.
+"Space" in Andy Merrifield, *Henri Lefebvre: A Critical Introduction* (Taylor & Francis, 2006), 99-120. (P)
 
-"Walking the City" and "Spatial Stories" in Michel de Certeau, *The Practice of Everyday Life* (University of California Press, 2011).  
+"Walking the City" and "Spatial Stories" in Michel de Certeau, *The Practice of Everyday Life* (University of California Press, 2011).  (P)
+
 NOTE: Again, this is a challenging reading. In what ways is de Certeau compatible and incompatible with Lefebvre's approach?
 
-Tuan, Yi-fu. *Space and Place: The Perspective of Experience*. Minneapolis: University of Minnesota Press, 1977. Read Ch 2.
+**Elective Readings:**
 
-Massey, Doreen B. *For Space*. London; Thousand Oaks, Calif.: SAGE, 2005. Read Ch 1-3 pp1-48.
+A) Tuan, Yi-fu. *Space and Place: The Perspective of Experience*. Minneapolis: University of Minnesota Press, 1977. Read Ch 1-5. (P)
+
+B) Massey, Doreen B. *For Space*. London; Thousand Oaks, Calif.: SAGE, 2005. Read Ch 1-4. (P)
+
 NOTE: A third challenging reading. Please try to understand her critique of de Certeau, in particular.
+
+D) Georg Simmel, “The Metropolis and Mental Life” (1903) in Gary Bridge and Sophie Watson, eds. *The Blackwell City Reader*. Oxford and Malden, MA: Wiley-Blackwell, 2002. + Simmel, Georg, David Frisby, and Mike Featherstone. *Simmel on Culture: Selected Writings. Theory, Culture & Society*. London: Sage, 1997 Part IV Spatial and Urban Culture pp137-187
+
+E) Elden, Stuart. *Understanding Henri Lefebvre: Theory and the Possible*. London ; New York: Continuum, 2004. Ch Introduction, 3-5.
+
+F) Amin, Ash and Nigel Thrift *Cities: Reimagining the Urban* 2002. Introduction, Ch 1-2 pp1-50 (P)
 
 **Further Reading**
 
 Se-Yong Jang, ‘The Spatial Theory of de Certeau, a Vagabond in Stray Space’, *Localities* 5 (2015): 89–102
 
-Georg Simmel, “The Metropolis and Mental Life” (1903) in Gary Bridge and Sophie Watson, eds. *The Blackwell City Reader*. Oxford and Malden, MA: Wiley-Blackwell, 2002.
-
-Elden, Stuart. *Understanding Henri Lefebvre: Theory and the Possible*. London ; New York: Continuum, 2004.
+Wolff, Kurt H. *The Sociology Of Georg Simmel*. The Free Press., 1950. http://archive.org/details/sociologyofgeorg030082mbp. 
 
 Crang, Mike, and Nigel Thrift, eds. *Thinking Space*. London ; New York: Routledge, 2000.
 
-Tuan, Yi-fu. *Space and Place: The Perspective of Experience*. Minneapolis: University of Minnesota Press, 1977.
+Tuan, Yi-fu. *Space and Place: The Perspective of Experience*. Minneapolis: University of Minnesota Press, 1977. (P)
 
 Hubbard, Phil, and Rob Kitchin. *Key Thinkers on Space and Place*. 2 edition. Los Angeles, Calif.: Sage Publications Ltd, 2010.
 
@@ -82,13 +98,11 @@ Aitken, Stuart, and Gill Valentine. *Approaches to Human Geography*. 2 edition. 
 
 Barnes, Trevor J, and Derek Gregory. *Reading Human Geography: The Poetics and Politics of Inquiry*. London: Arnold, 1997.
 
-Soja, Edward W. *Postmodern Geographies: The Reassertion of Space in Critical Social Theory*. Second Edition edition. London; New York: Verso, 2011.
-
-Wolff, Kurt H. *The Sociology Of Georg Simmel*. The Free Press., 1950. http://archive.org/details/sociologyofgeorg030082mbp.
+Soja, Edward W. *Postmodern Geographies: The Reassertion of Space in Critical Social Theory*. Second Edition edition. London; New York: Verso, 2011. (P)
 
 Goonewardena, Kanishka, Stefan Kipfer, Richard Milgrom, and Christian Schmid, eds. *Space, Difference, Everyday Life: Reading Henri Lefebvre*. 1 edition. New York: Routledge, 2008.
 
-Harvey, David. *Social Justice and the City*. Athens: University of Georgia Press, 2009.
+Harvey, David. *Social Justice and the City*. Athens: University of Georgia Press, 2009. (P)
 
 **Task**
 
@@ -104,73 +118,100 @@ Harvey, David. *Social Justice and the City*. Athens: University of Georgia Pres
 
 Sophia Raffles, *Memoir of the Life and Public Services of Sir Thomas Stamford Raffles* (London: James Duncan, 1835). [Archive.org](https://archive.org/details/memoiroflifepubl00raff) Ch VI-VIII, pp132-268 - skim as necessary
 
-**Secondary Reading**
+**Elective Reading**
 
-*Read either in detail on the China side:*
+A) Read either in detail on the China side:
 
 [Rise and Fall of the Canton System](http://ocw.mit.edu/ans7870/21f/21f.027/rise_fall_canton_03/index.html) - (Also primary sources here) Please note that there are multiple pages here - Inspect the historical paintings and photographs in the Image Galleries and choose at least one or two to discuss in class.
 
-John King Fairbank, *Trade and Diplomacy on the China Coast: The Opening of the Treaty Ports, 1842-1854* (Harvard University Press, 1953), 1-56
+John King Fairbank, *Trade and Diplomacy on the China Coast: The Opening of the Treaty Ports, 1842-1854* (Harvard University Press, 1953), 1-56 (P)
 
-*Or on the Japanese side:*
+B) Or on the Japanese side:
 
-Michael R. Auslin, *Negotiating with Imperialism: The Unequal Treaties and the Culture of Japanese Diplomacy* (Harvard University Press, 2009), 12-60
+Michael R. Auslin, *Negotiating with Imperialism: The Unequal Treaties and the Culture of Japanese Diplomacy* (Harvard University Press, 2009), 12-60 (P)
 
 If you have not studied Japanese history before:
 
 Andrew Gordon, *A Modern History of Japan: From Tokugawa Times to the Present*, 2nd ed. (Oxford University Press, USA, 2008), 46-137 (Ch 4 Overthrow of the Tokugawa through and including Ch 8 Empire and Domestic Order)
 
-**Task**
+**Task:**
 
-1. Create or add to the timeline and list of sources on a shared document we have (link on moodle) related to your focus city. Continue and deepen the exploration of your city focus as in week one, adding to what you know about it. Be ready to share some of your discoveries in class, including possible areas that may be interesting to study (perhaps for your own essay, perhaps of interest to other classmates). Share some scholarship on the city that you found that may be of interest and why you think it might be interesting.
+1. Primary Source Exercise: Please connect to one of the two following English language newspapers from China and Japan that we have. Browse a few issues of the newspaper and bring a printed copy of one of the articles you found interesting related to cities and city life to share:
 
-### Week 4: Pre-20th Cent. Beijing, Hansŏng and Edo
+* [North China Herald](http://library.st-andrews.ac.uk/record=b2088752~S5)
+* [Japan Chronicle](http://library.st-andrews.ac.uk/record=b2089101~S5)
 
-**Primary Sources**
+### Week 4: Pre-20th Cent. Capitals
 
-*Peking and the Pekingese During the First Year of the British Embassy* (1865)
-
-*Yedo and Peking* (Read chapters 5-8, 21-22)
-
-*Kaempfer in Japan* (Read chapters 11-12)
-
-**Secondary Reading**
-
-Lewis Mumford "What is a City?" in Richard T. LeGates and Frederic Stout, *The City Reader*, 5th edition (London ; New York: Routledge, 2011).
-
-Charles Tilly, “What Good Is Urban History?,” *Journal of Urban History* 22 (September 1996): 702–19.
+*Yedo and Peking* (Read chapters 5-8, 21-22) https://archive.org/details/yedoandpekingan00fortgoog
 
 Lillian M. Li and Alison Dray-Novey, “Guarding Beijing’s Food Security in the Qing Dynasty: State, Market, and Police,” *The Journal of Asian Studies* 58, no. 4 (November 1, 1999): 992–1032
 
-Katō Takashi, “Edo in the Seventeenth Century: Aspects of Urban Development in a Segregated Society,” *Urban History* 27, no. 02 (2000): 189–210.
-
 “The Edo-Tokyo Transition: In Search of Common Ground,” [online](http://www.columbia.edu/~hds2/pdf/1986_Edo-Tokyo_Transition.pdf)
 
-Yun, Jieheerah *Globalizing Seoul: The City's Cultural and Urban Change* Routledge Ch 1 "A Brief Urban History of Seoul" - copy provided by me.
+**Elective Reading:**
 
-**Further Reading**
+A) More on Beijing:
 
-W. J. Boot, “A Tale of Two Cities: Edo and Paris,” *Journal of the Economic and Social History of the Orient* 40, no. 1 (January 1, 1997): 90–106.
-
-Boyd, Julia. *A Dance With the Dragon: The Vanished World of Peking’s Foreign Colony*. I.B.Tauris, 2012.
-
-Hein, Carola. “Shaping Tokyo: Land Development and Planning Practice in the Early Modern Japanese Metropolis.” *Journal of Urban History* 36, no. 4 (July 1, 2010): 447–84. doi:10.1177/0096144209347737.
+*Peking and the Pekingese During the First Year of the British Embassy* (1865) Vol. 2 Ch 3 "The Prince of Kung..." pp64-93 https://archive.org/details/in.ernet.dli.2015.501729/
 
 Dray-Novey, Alison. “Spatial Order and Police in Imperial Beijing.” *The Journal of Asian Studies* 52, no. 4 (November 1, 1993): 885–922. doi:10.2307/2059343.
 
-Li, Lillian M., Alison Dray-Novey, and Haili Kong. *Beijing: From Imperial Capital to Olympic City*. Macmillan, 2008.
+B) More on Edo:
+
+*Kaempfer in Japan* (Read chapters 11-12)
+
+Fieve, Nicolas, and Paul Waley. *Japanese Capitals in Historical Perspective: Place, Power and Memory in Kyoto, Edo and Tokyo*. Routledge, 2013. Nicolas Fiévé Ch 3 "Urbanisation and the nature of the Tokugawa hegemony" Ch 4 Beatrice M. Bodart-Bailey "Metaphors of the metropolis : architectural and artistic representations of the identity of Edo"
+
+Katō Takashi, “Edo in the Seventeenth Century: Aspects of Urban Development in a Segregated Society,” *Urban History* 27, no. 02 (2000): 189–210.
+
+C) Readings on Hansŏng/Hanyang:
+
+Bishop, Isabella Bird *Korea and her neighbors; a narrative of travel, with an account of the recent vicissitudes and present position of the country* Ch 2 "First Impressions of the Capital" 
+
+Lee, Sinwoo. ‘Blurring Boundaries: Mixed Residence, Extraterritoriality, and Citizenship in Seoul, 1876–1910’. *Journal of Korean Studies* 21, no. 1 (25 May 2016): 71–100. 
+
+Yun, Jieheerah *Globalizing Seoul: The City's Cultural and Urban Change* Routledge Ch 1 "A Brief Urban History of Seoul" 
+
+D) Edo Culture Focus:
+
+Nishiyama, Matsunosuke, and Gerald Groemer. *Edo Culture: Daily Life and Diversions in Urban Japan, 1600-1868*. University of Hawaii Press, 1997. Introduction, Ch 2-5. (P)
+
+E) Beijing Culture Focus:
+
+Naquin, Susan. *Peking: Temples and City Life, 1400-1900*. First Printing edition. Berkeley: University of California Press, 2000. Ch 1 Introducing Peking, Ch 13-15. (P)
+
+F) Bangkok Focus:
+
+O’Neil, Maryvelma Smith. *Bangkok: A Cultural History*. Cityscapes. New York: Oxford University Press, 2008. Introduction, Ch 3-4. (P)
+
+**Further Reading**
+
+Jones, Sumie, and Kenji Watanabe, eds. *An Edo Anthology: Literature from Japan’s Mega-City, 1750-1850*. Honolulu: University of Hawaiʻi Press, 2013.
+
+W. J. Boot, “A Tale of Two Cities: Edo and Paris,” *Journal of the Economic and Social History of the Orient* 40, no. 1 (January 1, 1997): 90–106.
+
+Boyd, Julia. *A Dance With the Dragon: The Vanished World of Peking’s Foreign Colony*. I.B.Tauris, 2012. (P)
+
+Hein, Carola. “Shaping Tokyo: Land Development and Planning Practice in the Early Modern Japanese Metropolis.” *Journal of Urban History* 36, no. 4 (July 1, 2010): 447–84. doi:10.1177/0096144209347737.
+
+Li, Lillian M., Alison Dray-Novey, and Haili Kong. *Beijing: From Imperial Capital to Olympic City*. Macmillan, 2008. (P)
 
 Naquin, Susan. *Peking: Temples and City Life, 1400-1900*. First Printing edition. Berkeley: University of California Press, 2000.
 
-Yonemoto, Marcia. *Mapping Early Modern Japan: Space, Place, and Culture in the Tokugawa Period, 1603-1868*. University of California Press, 2003.
+Yonemoto, Marcia. *Mapping Early Modern Japan: Space, Place, and Culture in the Tokugawa Period, 1603-1868*. University of California Press, 2003. 
 
 ———. “The ‘Spatial Vernacular’ in Tokugawa Maps.” *The Journal of Asian Studies* 59, no. 3 (August 1, 2000): 647–66. doi:10.2307/2658946.
 
-Steinhardt, Nancy Shatzman. *Chinese Imperial City Planning*. University of Hawaii Press, 1999.
+Steinhardt, Nancy Shatzman. *Chinese Imperial City Planning*. University of Hawaii Press, 1999. (P)
+
+Watt, Alistair. *Robert Fortune: A Plant Hunter in the Orient*. Kew, Richmond, Surrey: Royal Botanic Gardens, Kew, 2017. (P)
+
+Rappaport, Erika. *A Thirst for Empire: How Tea Shaped the Modern World*. Reprint edition. Princeton University Press, 2017.
 
 **Task**
 
-1. By this time you should have some concrete ideas for your essay. On the module moodle, please add a posting entitled "Week 4 Topic Idea: (Your Name): (Your Essay Topic)" a paragraph about one or two current long essay ideas you are exploring. Also include an indicative bibliography of 3-5 sources you are exploring, including at least one primary source.
+1. By this time you should have some concrete ideas for your essay. On the module Moodle, please add a posting entitled "Week 4 Topic Idea: (Your Name): (Your Essay Topic)" a paragraph about one or two current long essay ideas you are exploring. Also include an indicative bibliography of 3-5 sources you are exploring, including at least one primary source.
 2. Will you be needing any inter-library loans? They take time so put in the requests for them. If there are books you need that are available at the University of Edinburgh library or primary sources there or in other Scottish university collections, apply for a SCONUL card through the library. If the books are available in the national library of Scotland, bring a bill that has your address on it with you to the NLS if you decide to make a trip to Edinburgh to use the library.
 3. Continue looking at primary sources for your long essay. Be ready to introduce a primary source that you have looked at.
 
@@ -197,17 +238,21 @@ Robert Bickers, “Shanghailanders: The Formation and Identity of the British Se
 
 Eileen P. Scully, “Prostitution as Privilege: The ‘American Girl’ of Treaty-Port Shanghai, 1860-1937,” *The International History Review* 20, no. 4 (December 1, 1998): 855–83.
 
-Bremner, G. Alex, and David P. Y. Lung. “Spaces of Exclusion: The Significance of Cultural Identity in the Formation of European Residential Districts in British Hong Kong, 1877 - 1904.” *Environment and Planning D: Society and Space 21*, no. 2 (2003): 223–52. doi:10.1068/d310.
+*There are no special elective reading categories today. Please prepare a handout with an overview of one of the secondary readings above.*
 
 **Further Reading**
 
-Guan, Yeoh Seng et al. *Penang and Its Region: The Story of an Asian Entrepôt*
+Bremner, G. Alex, and David P. Y. Lung. “Spaces of Exclusion: The Significance of Cultural Identity in the Formation of European Residential Districts in British Hong Kong, 1877 - 1904.” *Environment and Planning D: Society and Space 21*, no. 2 (2003): 223–52. doi:10.1068/d310.
+
+Guan, Yeoh Seng et al. *Penang and Its Region: The Story of an Asian Entrepôt* (P)
 
 Shanghai's Lens on the New: [I](http://ocw.mit.edu/ans7870/21f/21f.027/dianshizhai/index.html), [II](http://ocw.mit.edu/ans7870/21f/21f.027/dianshizhai_02/index.html), [III](http://ocw.mit.edu/ans7870/21f/21f.027/dianshizhai_03/index.html)
 
-Bickers, Robert A., and American Council of Learned Societies. “Empire Made Me an Englishman Adrift in Shanghai.” ACLS Humanities E-Book, 2003.
+Bickers, Robert A., *Empire Made Me an Englishman Adrift in Shanghai* 2003. (P)
 
-Bickers, Robert, and Isabella Jackson, eds. *Treaty Ports in Modern China: Law, Land, and Power*. Routledge, 2015.
+Bickers, Robert, and Isabella Jackson, eds. *Treaty Ports in Modern China: Law, Land, and Power*. Routledge, 2015. 
+
+Brunero, Donna, Stephanie Villalta Puig, eds. *Life in Treaty Port China and Japan* Singapore: Palgrave Macmillan, 2018.
 
 Djumena, Sascha T. *China’s Treaty Ports: Lessons for Today’s Special Economic Zones*. Techn. Univ., 1995.
 
@@ -215,15 +260,15 @@ Fairbank, John King. *Trade and Diplomacy on the China Coast;: The Opening of th
 
 Hamashita Takeshi “Tribute and Treaties: East Asian Treaty Ports Networks in the Era of Negotiation, 1834—1894.” *European Journal of East Asian Studies* 1, no. 1 (January 1, 2001): 59–87.
 
-Hao, Yen-P’ing. *The Comprador in Nineteenth Century China: Bridge Between East and West*. Harvard University Press, 2013.
+Hao, Yen-P’ing. *The Comprador in Nineteenth Century China: Bridge Between East and West*. Harvard University Press, 2013. (P)
 
-Hoare, James. *Japan’s Treaty Ports and Foreign Settlements: The Uninvited Guests, 1858-1899*. Japan Library, 1994.
+Hoare, James. *Japan’s Treaty Ports and Foreign Settlements: The Uninvited Guests, 1858-1899*. Japan Library, 1994. (P)
 
 Hoare, James Edward. *The Japanese Treaty Ports 1868-1899: A Study of the Foreign Settlements*. University of London, 1970.
 
-Home, Robert K. *Of Planting and Planning: The Making of British Colonial Cities*. Taylor & Francis, 1996.
+Home, Robert K. *Of Planting and Planning: The Making of British Colonial Cities*. Taylor & Francis, 1996. (P)
 
-Munson, Todd S. *The Periodical Press in Treaty-Port Japan: Conflicting Reports From Yokohama, 1861-1870*. Brill, 2012.
+Munson, Todd S. *The Periodical Press in Treaty-Port Japan: Conflicting Reports From Yokohama, 1861-1870*. Brill, 2012. (P)
 
 Nield, Robert. *The China Coast : Trade and the First Treaty Ports.*
 
@@ -236,6 +281,7 @@ Wood, Frances. *No Dogs and Not Many Chinese: Treaty Port Life in China, 1843-19
 **Task**
 
 1. Continue research for long essay. Be ready to introduce a primary source that you have looked at and say a few words about what makes it interesting.
+2. If you haven't posted a blog entry yet, I strongly encourage you to do so. Remember you need half of your blog entries complete in the first semester, and you will only get more busy as the essay deadline approaches. 
 
 ### Week 6: Independent Learning Week
 
@@ -251,15 +297,19 @@ Michel Foucault, "Of Other Spaces: Utopias and Heterotopias" *Architecture/Mouve
 
 David Tucker "City Planning Without Cities: Order and Chaos in Utopian Manchukuo" in Mariko Asano Tamanoi ed., *Crossed Histories: Manchuria in the Age of Empire*, 53-81
 
-Louise Young, *Japan’s Total Empire: Manchuria and the Culture of Wartime Imperialism, Twentieth-Century Japan*  (Berkeley, Calif: University of California Press, 1999), 241-268.
+Joseph R. Allen *Taipei: City of Displacements* (University of Washington Press, 2012), Ch 1 "Mapping the City", 17-41 (P)
 
 Yishi Liu and Xinying Wang, “A Pictorial History of Changchun, 1898–1962,” *Cross-Currents* 5
 
-Laura Victoir and Victor Zatsepine, eds., *Harbin to Hanoi: The Colonial Built Environment in Asia, 1840 to 1940* (global Connections) (Hong Kong University Press, 2013), chapter on "Mapping Colonial Space".
+Aaron Moore, *Constructing East Asia: Technology, Ideology, and Empire in Japan’s Wartime Era, 1931-1945* (Stanford University Press, 2013), chapter "Constructing the Continent" - but only the "Urban Technological Imaginaries: The Case of “Pan-Asian” Beijing" section from pp121-135.
 
-Aaron Moore, *Constructing East Asia: Technology, Ideology, and Empire in Japan’s Wartime Era, 1931-1945* (Stanford University Press, 2013), chapter on "Constructing the Continent".
+**Elective Reading:**
 
-Joseph R. Allen *Taipei: City of Displacements* (University of Washington Press, 2012), Ch 1 "Mapping the City", 17-41
+A) Laura Victoir and Victor Zatsepine, eds., *Harbin to Hanoi: The Colonial Built Environment in Asia, 1840 to 1940* (global Connections) (Hong Kong University Press, 2013), chapter on "Mapping Colonial Space".
+
+B) Louise Young, *Japan’s Total Empire: Manchuria and the Culture of Wartime Imperialism, Twentieth-Century Japan*  (Berkeley, Calif: University of California Press, 1999), 241-268. (P)
+
+C) Home, Robert K. Of *Planting and Planning: The Making of British Colonial Cities*. Taylor & Francis, 1996. Ch 1-2
 
 **Further Reading**
 
@@ -267,15 +317,13 @@ Yeoh Seng Guan, “Creolized Utopias: Squatter Colonies and the Post-Colonial Ci
 
 Mark Levine, “Globalization, Architecture, and Town Planning in a Colonial City: The Case of Jaffa and Tel Aviv,” *Journal of World History* 18, no. 2 (June 1, 2007): 171–98.
 
-Home, Robert K. Of *Planting and Planning: The Making of British Colonial Cities*. Taylor & Francis, 1996.
-
-Gordon, David. *Planning Twentieth Century Capital Cities*. New York; London: Routledge, 2006.
+Gordon, David. *Planning Twentieth Century Capital Cities*. New York; London: Routledge, 2006. (P)
 
 Esherick, Joseph, ed. “Railway City and National Capital: Two Faces of the Modern in Changchun.” In Remaking the Chinese City: Modernity and National Identity, 1900-1950, Pbk. ed. Honolulu: University of Hawaiʻi Press, 2002.
 
-Liu, Yishi. “Competing Visions of the Modern: Urban Transformation and Social Change of Changchun, 1932-1957.” Ph.D., University of California, Berkeley, 2011.
+Liu, Yishi. “Competing Visions of the Modern: Urban Transformation and Social Change of Changchun, 1932-1957.” Ph.D., University of California, Berkeley, 2011. (P)
 
-Sewell, William Shaw. “Japanese Imperialism and Civic Construction in Manchuria: Changchun, 1905--1945.” Ph.D., The University of British Columbia (Canada), 2000
+Sewell, William Shaw. “Japanese Imperialism and Civic Construction in Manchuria: Changchun, 1905--1945.” Ph.D., The University of British Columbia (Canada), 2000 (P)
 
 Esherick, Joseph, ed. “Yang Sen in Chengdu: Urban Planning in the Interior.” In *Remaking the Chinese City: Modernity and National Identity, 1900-1950*, Pbk. ed. Honolulu: University of Hawaiʻi Press, 2002.
 
@@ -296,13 +344,28 @@ Frederic Wakeman Jr., “Policing Modern Shanghai,” *The China Quarterly*, no.
 
 Isabella Jackson, “The Raj on Nanjing Road: Sikh Policemen in Treaty-Port Shanghai,” *Modern Asian Studies* 46, no. 06 (November 2012): 1672–1704
 
+
+**Elective Reading:**
+ 
+A) Lo, Sonny Shiu-Hing. *The Politics of Policing in Greater China.* Springer, 2016. "Policing in Hong Kong", "Policing the Occupy Central Movement in Hong Kong" (P)
+
+B) Frederic E. Wakeman, *The Shanghai Badlands: Wartime Terrorism and Urban Crime, 1937-1941*, First Edition (Cambridge University Press, 1996), 1-92 (P)
+
+C) Fong, Leong Yee "Secret Societies and Policies in Colonial Malaya with Special Reference to the Ang Bin Hoey in Penang (1945-1952)" in Guan, Yeoh Seng et al. *Penang and Its Region: The Story of an Asian Entrepôt*
+
+D) Chen, Ching-Chih. ‘Police and Community Control Systems in the Empire’. In *The Japanese Colonial Empire, 1895-1945*, edited by Mark R. Peattie, Jingzhi Zhen, and Ramon Hawley Myers, 213–39. Princeton, N.J: Princeton University Press, 1984.
+
+E) Miners, Norman. ‘The Localization of the Hong Kong Police Force, 1842–1947’. *The Journal of Imperial and Commonwealth History* 18, no. 3 (1 October 1990): 296–315. 
+
 **Further Reading**
 
-Frederic E. Wakeman, *The Shanghai Badlands: Wartime Terrorism and Urban Crime, 1937-1941*, First Edition (Cambridge University Press, 1996), 1-92
+Hamilton, Sheilah E. *Watching Over Hong Kong: Private Policing 1841-1941*. Hong Kong University Press, 2012.  (P)
 
 Erik W. Esselstrom, “Rethinking the Colonial Conquest of Manchuria: The Japanese Consular Police in Jiandao, 1909-1937,” *Modern Asian Studies* 39, no. 1 (February 1, 2005): 39–75.
 
-Fong, Leong Yee "Secret Societies and Policies in Colonial Malaya with Special Reference to the Ang Bin Hoey in Penang (1945-1952)" in Guan, Yeoh Seng et al. *Penang and Its Region: The Story of an Asian Entrepôt*
+Martin, Brian G. *The Shanghai Green Gang: Politics and Organized Crime, 1919-1937*. University of California Press, 1996. (P)
+
+Frederic E. Wakeman, *The Shanghai Badlands: Wartime Terrorism and Urban Crime, 1937-1941*, First Edition (Cambridge University Press, 1996) (P)
 
 **Task**
 
@@ -312,45 +375,47 @@ Fong, Leong Yee "Secret Societies and Policies in Colonial Malaya with Special R
 
 * Selected SMPA files
 
+Yeoh, Brenda S. A. *Contesting Space in Colonial Singapore: Power Relations and the Urban Built Environment*. NUS Press, 2003. Read Ch 3 Municipal Sanitary Surveillance, Asian Resistance and the Control of the Urban Environment" and skim Ch 5 "Municipal versus Asian Utilities Systems: Urban Water Supply and Sewage Disposal"
+
 Laura Victoir and Victor Zatsepine, eds., *Harbin to Hanoi: The Colonial Built Environment in Asia, 1840 to 1940* (global Connections) (Hong Kong University Press, 2013), chapter on Hygienic Colonial Residences in Hanoi
 
-Vann, Michael G. “Of Rats, Rice, and Race: The Great Hanoi Rat Massacre, an Episode in French Colonial History.” French Colonial History 4 (2003): 191–203.
+**Elective Readings:**
 
-Liang, Qizi, Angela Ki Che Leung, and Charlotte Furth. *Health and Hygiene in Chinese East Asia: Policies and Publics in the Long Twentieth Century*. Duke University Press, 2010. Read Introduction, and chapters on "The Treatment of Night Soil and Waste in Modern China", "Eating Well in China: Diet and Hygiene in Nineteenth-Century Treaty Ports"
+A) Vann, Michael G. “Of Rats, Rice, and Race: The Great Hanoi Rat Massacre, an Episode in French Colonial History.” *French Colonial History* 4 (2003): 191–203.
 
-Yeoh, Brenda S. A. *Contesting Space in Colonial Singapore: Power Relations and the Urban Built Environment*. NUS Press, 2003. Read Ch 3 Municipal Sanitary Surveillance, Asian Resistance and the Control of the Urban Environment" and skim Ch 5 "Municipal versus Asian Utilities Systems: Urban Water Supply and Sewage Disposal"
+B) Liang, Qizi, Angela Ki Che Leung, and Charlotte Furth. *Health and Hygiene in Chinese East Asia: Policies and Publics in the Long Twentieth Century*. Duke University Press, 2010. Read Introduction, and chapters on "The Treatment of Night Soil and Waste in Modern China", "Eating Well in China: Diet and Hygiene in Nineteenth-Century Treaty Ports"
+
+C) Harald Fuess, “Informal Imperialism and the 1879 ‘Hesperia’ Incident: Containing Cholera and Challenging Extraterritoriality in Japan,” *Japan Review*, no. 27 (January 1, 2014): 103–40.
+
+D) Sutphen, Mary P. “Not What, but Where: Bubonic Plague and the Reception of Germ Theories in Hong Kong and Calcutta, 1894–1897.” *Journal of the History of Medicine and Allied Sciences* 52, no. 1 (January 1, 1997): 81–113. https://doi.org/10.1093/jhmas/52.1.81.
 
 **Further Reading**
 
-Harald Fuess, “Informal Imperialism and the 1879 ‘Hesperia’ Incident: Containing Cholera and Challenging Extraterritoriality in Japan,” *Japan Review*, no. 27 (January 1, 2014): 103–40.
-
 Hoshino, Takanori. “Transition to Municipal Management: Cleaning Human Waste in Tokyo in the Modern Era.” *Japan Review*, no. 20 (January 1, 2008): 189–202.
 
-Dane Keith Kennedy, *The Magic Mountains: Hill Stations and the British Raj* (Berkeley; London: University of California Press, 1996).
+Dane Keith Kennedy, *The Magic Mountains: Hill Stations and the British Raj* (Berkeley; London: University of California Press, 1996). (P)
 
-Sutphen, Mary P. “Not What, but Where: Bubonic Plague and the Reception of Germ Theories in Hong Kong and Calcutta, 1894–1897.” *Journal of the History of Medicine and Allied Sciences* 52, no. 1 (January 1, 1997): 81–113. https://doi.org/10.1093/jhmas/52.1.81.
+Ruth Rogaski, *Hygienic Modernity: Meanings of Health and Disease in Treaty-Port China* (Berkeley: University of California Press, 2004) (P)
 
 Ma, Shu-Yun. “The Making and Remaking of a Chinese Hospital in Hong Kong.” *Modern Asian Studies* 45, no. 5 (September 2011): 1313–36. doi:10.1017/S0026749X10000107.
 
-Ruth Rogaski, *Hygienic Modernity: Meanings of Health and Disease in Treaty-Port China* (Berkeley: University of California Press, 2004)
-
-Siniawer, Eiko Maruko *Waste: Consuming Postwar Japan* (2018)
+Siniawer, Eiko Maruko *Waste: Consuming Postwar Japan* (2018) (P)
 
 Bu, Liping, Darwin H. Stapleton, and Ka-Che Yip. *Science, Public Health and the State in Modern Asia*. Routledge, 2012.
 
-Haynes, Douglas M. *Imperial Medicine: Patrick Manson and the Conquest of Tropical Disease*. University of Pennsylvania Press, 2011.
+Haynes, Douglas M. *Imperial Medicine: Patrick Manson and the Conquest of Tropical Disease*. University of Pennsylvania Press, 2011. (P)
 
 Kim, Jeong-Ran. “The Borderline of ‘Empire’: Japanese Maritime Quarantine in Busan c.1876–1910.” *Medical History* 57, no. 02 (April 2013): 226–48. doi:10.1017/mdh.2012.104.
 
 Liang, Qizi, Angela Ki Che Leung, and Charlotte Furth. *Health and Hygiene in Chinese East Asia: Policies and Publics in the Long Twentieth Century*. Duke University Press, 2010.
 
-Macpherson, Kerrie L. *A Wilderness of Marshes: The Origins of Public Health in Shanghai, 1843-1893*. Lexington Books, 1987.
+Macpherson, Kerrie L. *A Wilderness of Marshes: The Origins of Public Health in Shanghai, 1843-1893*. Lexington Books, 1987. (P)
 
-Rawcliffe, Carole. *Urban Bodies: Communal Health in Late Medieval English Towns and Cities*. 1 edition. Woodbridge: Boydell Press, 2013.
+Rawcliffe, Carole. *Urban Bodies: Communal Health in Late Medieval English Towns and Cities*. 1 edition. Woodbridge: Boydell Press, 2013. (P)
 
-Yip, Ka-che. *Disease, Colonialism, and the State: Malaria in Modern East Asian History*. Hong Kong University Press, 2009.
+Yip, Ka-che. *Disease, Colonialism, and the State: Malaria in Modern East Asian History*. Hong Kong University Press, 2009. (P)
 
-Prasad, Srirupa. *Cultural Politics of Hygiene in India, 1890-1940: Contagions of Feeling*, 2015.
+Prasad, Srirupa. *Cultural Politics of Hygiene in India, 1890-1940: Contagions of Feeling*, 2015. (P)
 
 **Task**
 
@@ -363,53 +428,79 @@ Prasad, Srirupa. *Cultural Politics of Hygiene in India, 1890-1940: Contagions o
 
 [Social Protest in Imperial Japan](http://ocw.mit.edu/ans7870/21f/21f.027/social_protest_japan/index.html)
 
-Read one of the following two:
+Ng, Michael H. K., and John D. Wong, eds. *Civil Unrest and Governance in Hong Kong: Law and Order from Historical and Cultural Perspectives*. 1 edition. London ; New York, NY: Routledge, 2017. Introduction, Ch 1, 4, 7-9.
 
-Elizabeth J. Perry, *Shanghai on Strike: The Politics of Chinese Labor* (Stanford University Press, 1995), 1-130.
+**Elective Readings**
 
-Andrew Gordon, *Labor and Imperial Democracy in Prewar Japan* (University of California Press, 1992), 1-109.
+A) Elizabeth J. Perry, *Shanghai on Strike: The Politics of Chinese Labor* (Stanford University Press, 1995), 1-130. (P)
+
+B) Andrew Gordon, *Labor and Imperial Democracy in Prewar Japan* (University of California Press, 1992), 1-109. (P)
+
+C) S. A Smith, *Like Cattle and Horses: Nationalism and Labor in Shanghai, 1895-1927* (Durham N.C.: Duke University Press, 2002). Ch 4-9
+
+**Task:**
 
 1. Contribute to the shared SMPA document and be ready to present on one of your shared documents.
-2. You have only one major reading this week, use this time to focus on your long essay.
 
 **Further Reading**
 
+Kapur, Nick. *Japan at the Crossroads: Conflict and Compromise after Anpo.* Cambridge, Massachusetts: Harvard University Press, 2018. (P)
+
 Hong, Tan Kim "Riding the Storms: Radicalization of the Labour Party of Malaya, Penang Division, 1963-1969" Guan, Yeoh Seng et al. *Penang and Its Region: The Story of an Asian Entrepôt*
 
-S. A Smith, *Like Cattle and Horses: Nationalism and Labor in Shanghai, 1895-1927* (Durham [N.C.]: Duke University Press, 2002).
+Bickers, Robert, and Ray Yep. *May Days in Hong Kong: Riot and Emergency in 1967.* Hong Kong University Press, HKU, 2009. (P)
 
+Cheung, Gary Ka-wai. *Hong Kong’s Watershed: The 1967 Riots*. Hong Kong University Press, 2009. (P)
+
+Garrett, Daniel Paul. *Counter-Hegemonic Resistance in China’s Hong Kong: Visualizing Protest in the City*. 2015 edition. New York: Springer, 2014. (P)
+
+Wasserstrom, Jeffrey. *Student Protests in Twentieth-Century China: The View from Shanghai*. 1st ed. Stanford University Press, 1997. (P)
+
+Thomas, Martin. *Violence and Colonial Order Police, Workers and Protest in the European Colonial Empires, 1918-40*. Cambridge: Cambridge University Press, 2012. (P)
+
+Lewis. *Rioters and Citizens: Mass Protest in Imperial Japan*. University of California Press, 1992.
+
+Hung, Ho-fung. *Protest with Chinese Characteristics: Demonstrations, Riots, and Petitions in the Mid-Qing Dynasty*. Columbia University Press, 2013. (P)
+
+Wasserstrom, Jeffrey N., and Elizabeth J. Perry. *Popular Protest and Political Culture in Modern China*. Westview Press, 1994.
+
+Wright, Teresa. *Handbook of Protest and Resistance in China*. Northampton, MA: Edward Elgar Pub, 2019.
+
+Koschmann, J. Victor. *Authority and the Individual in Japan: Citizen Protest in Historical Perspective*. Tokyo: University of Tokyo Press, 1978. (P)
 
 ### Week 11: Migration and Minorities
 
 * Selected SMPA files
 
-**Secondary Sources**
+**Elective Reading**
 
-Goodman, Bryna *Native, Place, City, and Nation: regional networks and identities in Shanghai, 1853-1937* pp4-23 and pp29-41 in Introduction
+A) Goodman, Bryna *Native, Place, City, and Nation: regional networks and identities in Shanghai, 1853-1937* Introduction, Ch 3-5.
 
-Eric Han, “A True Sino-Japanese Amity? Collaborationism and the Yokohama Chinese (1937–1945),” *The Journal of Asian Studies* 72, no. 03 (August 2013): 587–609
+B) Li, Yi. *Chinese in Colonial Burma: A Migrant Community in a Multiethnic State*. Cambridge Imperial and Post-Colonial Studies Series. New York, NY: Palgrave Macmillan, 2017. Introduction, "Merchants of the Empire" "The Rangoon Vice" "Making No Political 'Noise'"
 
-Emily Honig, “The Politics of Prejudice: Subei People in Republican-Era Shanghai,” *Modern China* 15, no. 3 (July 1, 1989): 243–74.
+C) Honig, Emily. *Creating Chinese Ethnicity: Subei People in Shanghai, 1850-1980*. Yale University Press, 1992. Introduction, Ch 1-3
 
-J. Carter, “Struggle for the Soul of a City: Nationalism, Imperialism, and Racial Tension in 1920s Harbin,” *Modern China* 27, no. 1 (January 1, 2001): 91–116
+D) Ryang, Sonia, and John Lie, eds. *Diaspora without Homeland: Being Korean in Japan*. 1st ed. University of California Press, 2009. Introduction, 1, 3-4 (P)
 
-Michael Weiner, *Japan’s Minorities: The Illusion of Homogeneity* (London; New York: Routledge, 2009), chapter on Zainichi: Koreans in History and Memory - I'll provide a copy
+E) Han, Eric C. *Rise of a Japanese Chinatown: Yokohama, 1894-1972*. Harvard East Asian Monographs 367. Cambridge, Massachusetts: Harvard University Asia Center, 2014. Introduction, Ch 3-5.
 
 **Further Reading**
 
-* *(P) Presentation opportunities)*
+Michael Weiner, *Japan’s Minorities: The Illusion of Homogeneity* (London; New York: Routledge, 2009). (P)
+
+J. Carter, “Struggle for the Soul of a City: Nationalism, Imperialism, and Racial Tension in 1920s Harbin,” *Modern China* 27, no. 1 (January 1, 2001): 91–116
 
 Toby Lincoln, “Fleeing from Firestorms: Government, Cities, Native Place Associations and Refugees in the Anti-Japanese War of Resistance,” *Urban History* 38, no. Special Issue 03 (2011): 437–56
 
 Virunha Chuleeporn "From Regional Entrepôt to Malayan Port: Penang's Trade and Trading Communities, 1890-1940" in Guan, Yeoh Seng et al. *Penang and Its Region: The Story of an Asian Entrepôt*
 
-Kawashima, Ken C. The Proletarian Gamble: Korean Workers in Interwar Japan. Duke University Press, 2009. (P)
+Kawashima, Ken C. *The Proletarian Gamble: Korean Workers in Interwar Japan*. Duke University Press, 2009. (P)
 
 Christian Henriot, “Shanghai and the Experience of War. the Fate of Refugees,” *European Journal of East Asian Studies* 5, no. 2 (January 1, 2006): 215–45.
 
-Kratoska, Paul H. *Asian Labor in the Wartime Japanese Empire: Unknown Histories*. Armonk, N.Y: Sharpe, 2005.
+Kratoska, Paul H. *Asian Labor in the Wartime Japanese Empire: Unknown Histories*. Armonk, N.Y: Sharpe, 2005. 
 
-Lie, John. *Multiethnic Japan*. Cambridge, Mass.; London: Harvard University Press, 2004.
+Lie, John. *Multiethnic Japan*. Cambridge, Mass.; London: Harvard University Press, 2004. (P)
 
 O’Dwyer, Emer Sinéad. *Significant Soil: Settler Colonialism and Japan’s Urban Empire in Manchuria*. Harvard East Asian Monographs ; 377. Cambridge, Massachusetts: Harvard University Asia Center, 2015. (P)
 
@@ -417,13 +508,13 @@ Ryang, Sonia, and John Lie, eds. *Diaspora without Homeland: Being Korean in Jap
 
 Uchida, Jun. “A Sentimental Journey: Mapping the Interior Frontier of Japanese Settlers in Colonial Korea.” The Journal of Asian Studies 70, no. 03 (August 2011): 706–29.
 
-———. *Brokers of Empire: Japanese Settler Colonialism in Korea, 1876-1945*. Harvard University Asia Center, 2011.
+———. *Brokers of Empire: Japanese Settler Colonialism in Korea, 1876-1945*. Harvard University Asia Center, 2011. (P)
 
 ———. “The Public Sphere in Colonial Life: Residents’ Movements in Korea Under Japanese Rule.” Past & Present 220, no. 1 (August 1, 2013): 217–48. doi:10.1093/pastj/gtt002.
 
-Weiner, Michael. *Race and Migration in Imperial Japan*. Routledge, n.d.
+Weiner, Michael. *Race and Migration in Imperial Japan*. Routledge
 
-———. *Race, Ethnicity and Migration in Modern Japan: Indigenous and Colonial Others*. Taylor & Francis, 2004.
+———. *Race, Ethnicity and Migration in Modern Japan: Indigenous and Colonial Others*. Taylor & Francis, 2004. (P)
 
 **Task**
 
@@ -443,47 +534,71 @@ Take note of the ways in which urban environment and domestic spaces are describ
 
 ### Semester 2 Readings
 
-**NOTE:** The readings for semester two may change before the first week of the second semester. Feel free to use the list to get ideas for your long essays but please see the updated handbook of readings distributed in the first week of the second semester.
-
 ### Week 1: Broadening Theoretical Approaches
 
-Edward Case *The Fate of Place; A Philosophical History* Ch 12 "Giving a Face to Place in the Present" [ebook](http://dx.doi.org/10.1525/california/9780520276031.001.0001)
+**Required Reading**
+
+
+Cresswell, Tim. *Place: A Short Introduction*. 1 edition. Malden, MA: Wiley-Blackwell, 2004. Ch 1 "Defining Place" pp1-12
+
+Martin Heidegger "Building, Dwelling, Thinking" in Sharon M. Meagher *Philosophy and the City: Classic to Contemporary Writings* pp119-125
 
 Gaston Bachelard, *The Poetics of Space*, Introduction, Ch 1 "The House. From Cellar to Garret..." Ch 2 "House and Universe" Ch 9 "Dialects of Inside and Outside"
 
 [Harvard Design Magazine: The Poetics of Space by Gaston Bachelard](http://www.harvarddesignmagazine.org/issues/6/the-poetics-of-space-by-gaston-bachelard)
 
+**Elective Reading**
+
+A) Augé, Marc. *Non-Places: Introduction to an Anthropology of Supermodernity*. 2nd English language ed. London: Verso, 2008 (2nd Edition). Introduction, Prologue, The Near and the Elsewhere, Anthropological Place vii-61.
+
+B) Edward Case *The Fate of Place; A Philosophical History* Ch 9 "Modern Space as Site and Point" Ch 12 "Giving a Face to Place in the Present" [ebook](http://dx.doi.org/10.1525/california/9780520276031.001.0001)
+
+C) Cresswell, Tim. *Place: A Short Introduction*. 1 edition. Malden, MA: Wiley-Blackwell, 2004. Ch 2 "The Genealogy of Place" Ch 3 "Reading 'A Global Sense of Place'"
+
+D) Carter, Paul. *The Road to Botany Bay: An Exploration of Landscape and History*. Minneapolis: Univ Of Minnesota Press, 2010. Introduction, Ch 1 "An Outline of Names" Ch 2 "An Airy Barrier", Ch 7 "Elysiums for Gentlement", Ch 9 "Intimate Charm"
+
 **Further Reading**
 
 Edward W. Soja "The Socio-Spatial Dialectic" *Annals of the Association of American Geographers* 70, no 2 (1980)
 
-### Week 2: “Second Cities”
+### Week 2: “Second Cities and Cities in Motion”
 
 **Primary Source**
 
-Isabella Lucy Bird, *Unbeaten Tracks in Japan: An Account of Travels in the Interior Including Visits to the Aborigines of Yezo and the Shrines of Nikkô and Isé* (J. Murray, 1880), letters on Niigata (Letters XV, XVI, XVII)
+* Explore our *Japan Chronicle* and *North China Herald* collections and bring 1-3 articles related either to second cities or to the rise in urban culture in the first half of the 20th century.
 
-**Secondary Reading**
+**Elective Reading**
 
-Louise Young, *Beyond the Metropolis: Second Cities and Modern Life in Interwar Japan* (studies of the Weatherhead East Asian Institute), 1 edition (University of California Press, 2013), entire book.
+A) Louise Young, *Beyond the Metropolis: Second Cities and Modern Life in Interwar Japan* (studies of the Weatherhead East Asian Institute), 1 edition (University of California Press, 2013), entire book.
 
-* *If presenting, do an overview of Young's book*
+B) Lewis, Su Lin. *Cities in Motion: Urban Life and Cosmopolitanism in Southeast Asia, 1920–1940*. Asian Connections. Cambridge: Cambridge University Press, 2016, entire book.
+
 
 ### Week 3: Molding Colonial Spaces
 
-**Primary Sources**
+**Required Reading**
 
-* Japan-British Exhibition selected materials
+* Japan-British Exhibition selected sources to be distributed
 
 Count Hirokichi Mutsu, “The Japan-British Exhibition, 1910,” *Journal of the Royal Society of Arts* 58, no. 2983 (January 21, 1910): 232–43.
 
-**Secondary Sources**
-
-Todd Henry, *Assimilating Seoul: Japanese Rule and the Politics of Public Space in Colonial Korea, 1910-45* (Berkeley: University of California Press, 2014), Entire Book.
-
 Short, John Rennie. *Korea: A Cartographic History*. University of Chicago Press, 2012. Ch 6 "The Colonial Grid"
 
+**Elective Reading**
+
+A) Todd Henry, *Assimilating Seoul: Japanese Rule and the Politics of Public Space in Colonial Korea, 1910-45* (Berkeley: University of California Press, 2014), Entire Book. (ebook)
+
+B) Taylor, Jean Gelman. *The Social World of Batavia: Europeans and Eurasians in Colonial Indonesia*. Univ of Wisconsin Press, 2009. Introduction, Ch 1, Ch 4-6. (ebook)
+
+C) Allen, Joseph R. *Taipei: City of Displacements*. University of Washington Press, 2012. Ch 2-3, 5-7.
+
+D) Njoh, Ambe J. ‘French Urbanism in Indochina’. In *French Urbanism in Foreign Lands*, edited by Ambe J. Njoh, 89–113. + Waibel, Michael. ‘The Ancient Quarter of Hanoi – A Reflection of Urban Transition Processes’ *ASIEN*. + Norindr, Panivong. *Phantasmatic Indochina: French Colonial Ideology in Architecture, Film, and Literature*. Duke University Press Books, 1997. Introduction, Ch 1 "Representing Indochina"
+
+E) Hotta-Lister, A. *The Japan-British Exhibition of 1910: Gateway to the Island Empire of the East*. 1 edition. Richmond: Routledge, 1999, Entire Book.
+
 **Further Reading**
+
+Blussé, Léonard. *Strange Company: Chinese Settlers, Mestizo Women and the Dutch in VOC Batavia*. Foris Publications, 1986. (P)
 
 Moore, James. “Making Cairo Modern? Innovation, Urban Form and the Development of Suburbia, c. 1880–1922.” *Urban History* 41, no. 01 (2014): 81–104. https://doi.org/10.1017/S096392681300028X.
 
@@ -492,50 +607,82 @@ Moore, James. “Making Cairo Modern? Innovation, Urban Form and the Development
 
 **Primary Sources**
 
-* Provided by me, TBD
+* Provided by me
 
-**Secondary Sources**
+**Required Reading**
 
-Chalana, Manish, ed. *Messy Urbanism: Understanding the “Other” Cities of Asia*. Hong Kong: Hong Kong University Press, 2017. Chapter 5 "The Royal Field (Sanam Luang): Bangkok’s Polysemic Urban Palimpsest" [ebook](http://dx.doi.org/10.5790/hongkong/9789888208333.001.0001)
+Tagsold, Christian. *Spaces in Translation: Japanese Gardens and the West. Penn Studies in Landscape Architecture*. Philadelphia: University of Pennsylvania Press, 2017. Introduction, Ch 1-5.
 
-Allen, Joseph R. “Taipei Park: Signs of Occupation.” *The Journal of Asian Studies* 66, no. 1 (February 1, 2007): 159–99. https://doi.org/10.2307/20203109. [jstor](https://www.jstor.org/stable/20203109)
+**Elective Reading**
 
-Jordan Sand, *Tokyo Vernacular: Common Spaces, Local Histories, Found Objects* (University of California Press, 2013), Ch 1 "Hiroba: The Public Square and the Boundaries of the Commons" [ebook](http://st-andrews.eblib.com/patron/FullRecord.aspx?p=1219559)
+A) Jordan Sand, *Tokyo Vernacular: Common Spaces, Local Histories, Found Objects* (University of California Press, 2013), Introduction and Ch 1 "Hiroba: The Public Square and the Boundaries of the Commons" [ebook](http://st-andrews.eblib.com/patron/FullRecord.aspx?p=1219559)
+
+B) Allen, Joseph R. “Taipei Park: Signs of Occupation.” *The Journal of Asian Studies* 66, no. 1 (February 1, 2007): 159–99. https://doi.org/10.2307/20203109. [jstor](https://www.jstor.org/stable/20203109)
+
+C) Chalana, Manish, ed. *Messy Urbanism: Understanding the “Other” Cities of Asia*. Hong Kong: Hong Kong University Press, 2017. Chapter 5 "The Royal Field (Sanam Luang): Bangkok’s Polysemic Urban Palimpsest" [ebook](http://dx.doi.org/10.5790/hongkong/9789888208333.001.0001)
+
+D) Tagsold, Christian. *Spaces in Translation: Japanese Gardens and the West*. Penn Studies in Landscape Architecture. Philadelphia: University of Pennsylvania Press, 2017. Ch 6-7.
+
+**Further Reading**
+
+Hung, Wu. ‘Tiananmen Square: A Political History of Monuments’. *Representations*, no. 35 (1 July 1991): 84–117. 
+
+Hung, Wu. *Remaking Beijing: Tiananmen Square and the Creation of a Political Space*. Reaktion Books, 2005.  (P)
 
 Bickers, Robert A., and Jeffrey N. Wasserstrom. “Shanghai’s ‘Dogs and Chinese Not Admitted’ Sign: Legend, History and Contemporary Symbol.” *The China Quarterly*, no. 142 (1995): 444–66. [jstor](https://www.jstor.org/stable/655423)
 
 Lee, Haiyan. “The Ruins of Yuanmingyuan Or, How to Enjoy a National Wound.” *Modern China* 35, no. 2 (March 1, 2009): 155–90. https://doi.org/10.1177/0097700408326911. [jstor](https://www.jstor.org/stable/27746912)
 
-Tagsold, Christian. *Spaces in Translation: Japanese Gardens and the West*. Penn Studies in Landscape Architecture. Philadelphia: University of Pennsylvania Press, 2017.
+Yuezhi, Xiong. ‘From Racecourse to People’s Park and People’s Square: Historical Transformation and Symbolic Significance’. *Urban History* 38, no. Special Issue 03 (2011): 475–90. 
 
-**Further Reading**
+Chalana, Manish, ed. *Messy Urbanism: Understanding the “Other” Cities of Asia*. Hong Kong: Hong Kong University Press, 2017.
 
-Read more chapters of Chalana, Manish, ed. *Messy Urbanism: Understanding the “Other” Cities of Asia*. Hong Kong: Hong Kong University Press, 2017.
+Barnard, Timothy P. *Nature’s Colony: Empire, Nation and Environment in the Singapore Botanic Gardens*. NUS Press, 2016. (P)
+
+Prest, John. *The Garden of Eden: The Botanic Garden and the Re-Creation of Paradise*. Yale University Press, 1988. (P)
+
+Rosenzweig, Roy, and Elizabeth Blackmar. *The Park and the People: A History of Central Park*. Cornell University Press, 1992.
+
+Hotta-Lister, A. *The Japan-British Exhibition of 1910: Gateway to the Island Empire of the East*. 1 edition. Richmond: Routledge, 1999.
+
+Takei, Jiro, Marc Peter Keane, and Marc P. Keane. *Sakuteiki: Visions of the Japanese Garden: A Modern Translation of Japan’s Gardening Classic*. Tuttle Publishing, 2008. (P)
+
+Tschumi, Christian. *Mirei Shigemori - Rebel in the Garden: Modern Japanese Landscape Architecture*. Walter de Gruyter, 2012. (P)
+
+———. *Mirei Shigemori: Modernizing the Japanese Garden*. Stone Bridge Press, 2005. (P)
+
+Yamada, Shoji. *Shots in the Dark: Japan, Zen, and the West*. University of Chicago Press, 2011. (P)
 
 
 ### Week 5: Neighborhoods and Local Space
 
 * Selected maps of Shinjuku station and area around it
 
-**Literary Approach**
-
-Alisa Freedman, *Tokyo in Transit: Japanese Culture on the Rails and Road* (Stanford University Press, 2011), Chapter: "Shinjuku Station sketches : constructing an icon of modern daily life"
-
-**Secondary Reading**
+**Required Reading**
 
 Lett, Denise Potrzeba *In Pursuit of Status: The Making of South Korea's "new" Urban Middle Class* (1998) pp101-109 in Ch 4 "Lifestyles" on Kangnam and Seoul Neighborhoods
 
 Hein, Carola. “Machi Neighborhood and Small Town—The Foundation for Urban Transformation in Japan.” *Journal of Urban History* 35, no. 1 (November 1, 2008): 75–107.
 
-Jordan Sand, *House and Home in Modern Japan: Reforming Everyday Life 1880-1930* (Cambridge, Mass.; London: Harvard University Press, 2005), Ch 7 "Culture Villages: Inscribing Cosmopolitanism in the Landscape" [ebook](http://hdl.handle.net/2027/heb.05898)
+**Elective Reading**
+
+A) Jordan Sand, *House and Home in Modern Japan: Reforming Everyday Life 1880-1930* (Cambridge, Mass.; London: Harvard University Press, 2005), Ch 7 "Culture Villages: Inscribing Cosmopolitanism in the Landscape" [ebook](http://hdl.handle.net/2027/heb.05898)
+
+B) Alisa Freedman, *Tokyo in Transit: Japanese Culture on the Rails and Road* (Stanford University Press, 2011), Chapter: "Shinjuku Station sketches : constructing an icon of modern daily life"
+
+C) Leppänen, Antti. *Neighborhood Shopkeepers in Contemporary South Korea: Household, Work, and Locality*, 2007. https://helda.helsinki.fi/handle/10138/23480. Ch 2, 4.
+
+D) Jacobs, Jane. *The Death and Life of Great American Cities*. Reissue edition. New York: Vintage, 1992. Introduction and Part Two: The Conditions for City Diversity.
 
 **Further Reading**
 
+David Strand, *Rickshaw Beijing: City People and Politics in the 1920s* (Berkeley; London: University of California Press, 1993). (P)
+
 Theodore C. Bestor, *Neighborhood Tokyo* (Stanford University Press, 1990) (P)
 
-**Presentation Opportunity**
+David Strand, *Rickshaw Beijing: City People and Politics in the 1920s* (Berkeley; London: University of California Press, 1993). (P)
 
-David Strand, *Rickshaw Beijing: City People and Politics in the 1920s* (Berkeley; London: University of California Press, 1993).
+Hirayama, Yosuke, and Richard Ronald. *Housing and Social Transition in Japan*. Routledge, 2006. (P)
 
 ### Week 6: Architecture
 
@@ -545,48 +692,91 @@ Tanizaki, Junichiro. *In Praise Of Shadows*. New Ed edition. London: Vintage Cla
 
 Engel, Heino *Measure and Construction of the Japanese Home* - Examine the images, including pp20-1,28,29-30,37,40-1,44-59,63-67
 
-**Secondary Sources** (~165)
+**Required Reading** (~165)
 
 *Cambridge History of Japan* Vol. 6, 20th century, section on Tanizaki Junichiro in Ch 14, pp752-754.
 
 Engel, Heino *Measure and Construction of the Japanese Home*, Introduction pp13-14,22-33, 42-59, 109-117
 
-Jordan Sand, *House and Home in Modern Japan: Reforming Everyday Life 1880-1930* (Cambridge, Mass.; London: Harvard University Press, 2005), Ch 8 "House Design and the Mass Market" pp263-287
+Jordan Sand, *House and Home in Modern Japan: Reforming Everyday Life 1880-1930* (Cambridge, Mass.; London: Harvard University Press, 2005), Ch 8 "House Design and the Mass Market" pp263-287 (P)
 
-Morse, Edward S. *Japanese Homes and Their Surroundings* (1886) [archive.org](https://archive.org/details/japanesehomesthe00mors/page/n8), Ch 2 pp45-77, Ch 5 pp234-272, Ch 9 pp343-348 (~75pp but a fast read)
+Morse, Edward S. *Japanese Homes and Their Surroundings* (1886) [archive.org](https://archive.org/details/japanesehomesthe00mors/page/n8), Ch 2 pp45-77, Ch 5 pp234-272, Ch 9 pp343-348 (~75pp but a fast read) (P)
 
-
-Reynolds, Jonathan M. "Japan's Imperial Diet Building in the Debate over Constitution of a National Identity" in Alan Tansman ed. *The Culture of Japanese Fascism* pp254-275
+*No elective reading this week, do a handout on one of the readings or on Tanizaki.*
 
 **Further Reading**
 
-Miriam Rom Silverberg, *Erotic Grotesque Nonsense: The Mass Culture of Japanese Modern Times* (University of California Press, 2009), chapter The Household Becomes Modern Life. [ebook](http://dx.doi.org/10.1525/california/9780520222731.001.0001)
+William H. Coaldrake, *Architecture and Authority in Japan* (Routledge, 2002). (P)
+
+Knapp, Ronald G. *China’s Vernacular Architecture: House Form and Culture*. Honolulu: University of Hawai’i Press, 1989. (P)
+
+Wright, Gwendolyn. *The Politics of Design in French Colonial Urbanism*. Chicago: University of Chicago Press, 1991. (P)
+
+Reynolds, Jonathan M. "Japan's Imperial Diet Building in the Debate over Constitution of a National Identity" in Alan Tansman ed. *The Culture of Japanese Fascism* pp254-275
+
+Miriam Rom Silverberg, *Erotic Grotesque Nonsense: The Mass Culture of Japanese Modern Times* (University of California Press, 2009), chapter The Household Becomes Modern Life. [ebook](http://dx.doi.org/10.1525/california/9780520222731.001.0001) (P)
 
 [Tianjin's Western-Style Chinese Villa | China Heritage Quarterly](http://www.chinaheritagequarterly.org/features.php?searchterm=021_villa.inc&issue=021)
 
-**Presentation Opportunity**
+Ching, Francis D. K., Mark M. Jarzombek, and Vikramaditya Prakash. *A Global History of Architecture*. John Wiley & Sons, 2010.
 
-William H. Coaldrake, *Architecture and Authority in Japan* (Routledge, 2002).
+Fu, Xinian. *Traditional Chinese Architecture: Twelve Essays*. Princeton University Press, 2017. (P)
 
-* *Or do a full overview of Jordan Sand's book*
+Knapp, Ronald G. *Chinese Houses: The Architectural Heritage of a Nation*. Tuttle Publishing, 2012. (P)
+
+Koehler, Ben Jackson and Robert. *Korean Architecture: Breathing with Nature*. Seoul Selection, 2015. (P)
+
+Park, Jinhee, and John Hong. *Convergent Flux: Contemporary Architecture and Urbanism in Korea*. Walter de Gruyter, 2012.
+
+Park, Nani, and Robert J. Fouser. *Hanok: The Korean House*. Tuttle Publishing, 2015. (P)
+
+Zhu, Jianfei. *Architecture of Modern China: A Historical Critique.* Routledge, 2013. (P)
+
+Bruun, Ole. *An Introduction to Feng Shui*. Cambridge University Press, 2008.
+
+———. *Fengshui in China: Geomantic Divination Between State Orthodoxy and Popular Religion*. NIAS Press, 2003.
+
+Paton, Michael. *Five Classics of Fengshui: Chinese Spiritual Geography in Historical and Environmental Perspective*. BRILL, 2013.
+
+Yoon, Hong-key. *P’ungsu: A Study of Geomancy in Korea*. SUNY Press, 2017. (P)
+
+Yoon, Hong-Key. *The Culture of Fengshui in Korea: An Exploration of East Asian Geomancy*. Lexington Books, 2006.
 
 ### Week 7: Domestic Space
 
 **Primary Sources**
 
-* TBD
+* Provided by me
 
 **Secondary Sources**
 
-Jordan Sand, *House and Home in Modern Japan: Reforming Everyday Life 1880-1930* (Cambridge, Mass.; London: Harvard University Press, 2005), Introduction and Ch 1-4 (1-161). [ebook](http://hdl.handle.net/2027/heb.05898)
+Jordan Sand, *House and Home in Modern Japan: Reforming Everyday Life 1880-1930* (Cambridge, Mass.; London: Harvard University Press, 2005), Introduction and Ch 1-4 (1-161). [ebook](http://hdl.handle.net/2027/heb.05898) (P)
+
+Ozaki, Ritsuko. ‘Society and Housing Form: Home-Centredness in England vs. Family-Centredness in Japan’. *Journal of Historical Sociology* 14, no. 3 (2001): 337–57. 
+
+Ozaki, Ritsuko, and John Rees Lewis. ‘Boundaries and the Meaning of Social Space: A Study of Japanese House Plans’. *Environment and Planning D: Society and Space 24*, no. 1 (1 February 2006): 91–104. https://doi.org/10.1068/d62j.
 
 Yamaguchi, Kiyoko. “The New ‘American’ Houses in the Colonial Philippines and the Rise of the Urban Filipino Elite.” *Philippine Studies* 54, no. 3 (January 1, 2006): 412–51. [jstor](http://www.jstor.org/stable/42633879?seq=1#page_scan_tab_contents)
 
+*No elective reading this week, do your handout on one of the chapters of Jordan Sand's book*
+
 **Further Reading**
 
-Saito, Satoru. *Detective Fiction and the Rise of the Japanese Novel, 1880-1930*. Harvard University Asia Center, 2012.
+Saito, Satoru. *Detective Fiction and the Rise of the Japanese Novel, 1880-1930*. Harvard University Asia Center, 2012. (P)
 
-Li, Jie. *Shanghai Homes: Palimpsests of Private Life.* Global Chinese Culture. New York: Columbia University Press, 2015.
+Li, Jie. *Shanghai Homes: Palimpsests of Private Life.* Global Chinese Culture. New York: Columbia University Press, 2015. (P)
+
+Fox, Michael Allen. *Home: A Very Short Introduction*. Oxford, United Kingdom: OUP Oxford, 2016.
+
+Briganti, Chiara. *The Domestic Space Reader*. Edited by Kathy Mezei. Toronto ; Buffalo: University of Toronto Press, 2012.
+
+Cicraad, Irene, ed. *At Home: An Anthropology of Domestic Space*. Syracuse: Syracuse University Press, 1999.
+
+McLaren, Anne. *Chinese Women - Living and Working*. Routledge, 2005. (P)
+
+Ronald, Richard, and Allison Alexy. *Home and Family in Japan: Continuity and Transformation*. Routledge, 2017. (P)
+
+Yan, Yunxiang. *Private Life Under Socialism: Love, Intimacy, and Family Change in a Chinese Village, 1949-1999*. Stanford University Press, 2003. (P)
 
 
 ### Week 8: Transportation Within and Beyond the City
@@ -603,11 +793,19 @@ Wright, Tim. “Shanghai Imperialists versus Rickshaw Racketeers: The Defeat of 
 
 Freedman, Alisa. *Tokyo in Transit: Japanese Culture on the Rails and Road*. Stanford University Press, 2011, Introduction and Ch 1-2, 4 (1-115,173-224)
 
+Frasch, Tilman. ‘Tracks in the City: Technology, Mobility and Society in Colonial Rangoon and Singapore’. *Modern Asian Studies* 46, no. 1 (2012): 97–118.
+
+*No elective readings this week, handout on one of the required readings*
+
 **Further Reading**
+
+Dick, H. W., and Peter James Rimmer. *Cities, Transport, and Communications: The Integration of Southeast Asia Since 1850*. Houndmills, Basingstoke, Hampshire ; New York: PalgraveMacmillan, 2003.
 
 Ericson, Steven J. *The Sound of the Whistle: Railroads and the State in Meiji Japan*. Harvard Univ Asia Center, 1996 (P)
 
 Traganou, Jilly. *The Tōkaidō Road: Traveling and Representation in Edo and Meiji Japan*. Psychology Press, 2004 (P)
+
+Lee, Anru, ‘Subways as a Space of Cultural Intimacy: The Mass Rapid Transit System in Taipei, Taiwan’ in *The China Journal* No.58 (Jul., 2007), p.43
 
 ### Week 9: Spaces of Tourism and Leisure
 
@@ -628,9 +826,13 @@ MacDonald, Kate *Placing Empire: Travel and the Social Imagination in Imperial J
 
 Ruoff, Kenneth J. *Imperial Japan at Its Zenith: The Wartime Celebration of the Empire’s 2,600th Anniversary*. Ithaca, N.Y: Cornell University Press, 2010, Ch 3-5 (82-147).
 
+*No elective readings, do a handout on one of our required readings*
+
 **Further Reading**
 
-* *If presenting do one of the (P) books below over an overview of Kenneth Ruoff's book as a whole above*
+Demay, Aline. *Tourism and Colonization in Indochina (1898-1939)*. Newcastle upon Tyne: Cambridge Scholars Publishing, 2014. (P)
+
+Pratt, Mary Louise. *Imperial Eyes: Travel Writing and Transculturation*. Routledge, 2010. (P)
 
 Moon, Okpyo "Japanese Tourists in Korea: Colonial and Post-Colonial Encounters" in *Japanese Tourism and Travel Culture* (2009)
 
@@ -640,27 +842,21 @@ Esherick, Joseph, ed. “Tourism and Spatial Change in Hangzhou, 1911–1927.”
 
 Urry, John and Jonas Larsen *The Tourist Gaze 3.0: Leisure and Travel in Contemporary Societies* (2011)
 
-"Japanese Tourism to Korea, Circa 1940: The Tension between Tourism Promotion and Assimilation Policies" *Japan Focus* [Online](http://japanfocus.org/-Kenneth-Ruoff/3498/article.html)
-
-Demay, Aline. *Tourism and Colonization in Indochina (1898-1939)*. Newcastle upon Tyne: Cambridge Scholars Publishing, 2014. (P)
-
 Joseph De Sapio *Modernity and Meaning in Victorian London Tourist Views of the Imperial Capital* (Basingstoke: Palgrave Macmillan, 2014).
 
 Mo, Yajun. “Itineraries for a Republic: Tourism and Travel Culture in Modern China, 1866--1954.” Ph.D., University of California, Santa Cruz, 2011 (P)
 
 Barclay, Paul D.  “Peddling Postcards and Selling Empire: Image-Making in Taiwan under Japanese Colonial Rule,” *Japanese Studies* 30, no. 1 (May 1, 2010): 81–110, [DOI](https://doi.org/10.1080/10371391003639138).
 
-Pratt, Mary Louise. *Imperial Eyes: Travel Writing and Transculturation*. London [u.a.: Routledge, 2010.
-
 Nenzi, Laura Nenz Detto. *Excursions in Identity: Travel and the Intersection of Place, Gender, and Status in Edo Japan*. University of Hawaii Press, 2008. (P)
 
-Akiko, Yosano. *Travels in Manchuria and Mongolia*. Translated by Joshua A. Fogel. Columbia University Press, 2001.
+Akiko, Yosano. *Travels in Manchuria and Mongolia*. Translated by Joshua A. Fogel. Columbia University Press, 2001. 
 
-Buzard, James. *The Beaten Track: European Tourism, Literature, and the Ways to Culture, 1800 - 1918*. Oxford [u.a.: Clarendon Press, 2001.
+Buzard, James. *The Beaten Track: European Tourism, Literature, and the Ways to Culture, 1800 - 1918*. Oxford u.a.: Clarendon Press, 2001.
 
-MacLean, Gerald M. *The Rise of Oriental Travel: English Visitors to the Ottoman Empire, 1580-1720*. Basingstoke [England]; New York: Palgrave Macmillan, 2006.
+MacLean, Gerald M. *The Rise of Oriental Travel: English Visitors to the Ottoman Empire, 1580-1720*. Basingstoke; New York: Palgrave Macmillan, 2006. (P)
 
-Russian *Views of Japan, 1792-1913: An Anthology of Travel Writing*. RoutledgeCurzon Studies in the Modern History of Asia 23. London ; New York, NY: RoutledgeCurzon, 2004.
+*Russian Views of Japan, 1792-1913: An Anthology of Travel Writing*. RoutledgeCurzon Studies in the Modern History of Asia 23. London ; New York, NY: RoutledgeCurzon, 2004.
 
 ### Week 10: Commemoration, Preservation, and Memory
 
@@ -672,13 +868,15 @@ Russian *Views of Japan, 1792-1913: An Anthology of Travel Writing*. RoutledgeCu
 
 Han, Jung-sun "Japan in the public culture of South Korea, 1945–2000s: The making and remaking of colonial sites and memories 1945-2000" *Asia-Pacific Journal* [online](https://apjjf.org/2014/12/15/Jung-Sun-Han/4107/article.html)
 
-Ho, Denise Y. *Curating Revolution: Politics on Display in Mao’s China.* Cambridge University Press, 2017. Ch 2 "Exhibiting New China"
+Ho, Denise Y. *Curating Revolution: Politics on Display in Mao’s China.* Cambridge University Press, 2017. Ch 2 "Exhibiting New China" (P)
 
 Abramson, Daniel. “Beijing’s Preservation Policy and the Fate of the Siheyuan.” *Traditional Dwellings and Settlements Review* 13, no. 1 (October 1, 2001): 7–22.
 
 Ho, Denise Y., and Jie Li. “From Landlord Manor to Red Memorabilia Reincarnations of a Chinese Museum Town.” *Modern China*, July 5, 2015, 0097700415591246. doi:10.1177/0097700415591246.
 
 Matten, Marc Andre "The Chiang Kai-Shek Memorial Hall in Taipei: A Contested Place of Memory" in Axel Schneider and Susanne Weigelin-Schwiedrzik eds. *Places of Memory in Modern China: History, Politics, and Identity* pp51-86
+
+*No elective readings and no need for handout this week: more time for your long essay work*
 
 **Further Reading**
 
@@ -703,10 +901,12 @@ Fu, Poshek. *Passivity, Resistance, and Collaboration: Intellectual Choices in O
 
 Gao, James Zheng. *The Communist Takeover of Hangzhou: The Transformation of City and Cadre, 1949-1954*. A Study of the Weatherhead East Asian Institute. Honolulu: University of Hawai’i Press, 2004. Ch 1 (only pp30-38 background on Hangzhou), Ch 3 "The First Efforts" Ch 4 "One Step Back, Two Steps Forward" (altogether pp30-124)
 
+*No elective readings this week and no need for handout: more time for your long essay work*
+
 **Further Reading**
 
 * *If presenting, do a presentation on either the Fu or Gao books as a whole*
 
-Henriot, Christian, and Wen-Hsin Yeh, eds. *In the Shadow of the Rising Sun: Shanghai Under Japanese Occupation*. New York: Cambridge University Press, 2004.
+Henriot, Christian, and Wen-Hsin Yeh, eds. *In the Shadow of the Rising Sun: Shanghai Under Japanese Occupation*. New York: Cambridge University Press, 2004. 
 
 Yick, Joseph K. S. *Making Urban Revolution in China: The CCP-GMD Struggle for Beiping-Tianjin, 1945-1949*. M.E. Sharpe, 1995.

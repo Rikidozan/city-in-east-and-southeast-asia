@@ -3,7 +3,7 @@
 
 **Lecturer:** Konrad M. Lawson **Email:** kml8@st-andrews.ac.uk   
 **Meets:** Fall and Spring 2018-9 Wed 10:00-13:00 St. Katharine's Lodge B3    
-**Office Hours:** Wed 13:00 (please sign up for a [time](https://goo.gl/Rh19wj) )
+**Office Hours:** Thu 16:00 (please sign up for a [time](https://goo.gl/Rh19wj) )
 
 ### Description	
 
@@ -14,23 +14,23 @@ This module explores the development of urban spaces in 19th and 20th century Ea
 Week 0 - Urban History and Spatial History  
 Week 1 - Impressions: Asian Cities Today   
 Week 2 - Historical and Theoretical Approaches to Urban Space  
-Week 3 - Background: 19th to 20th East and Southeast Asia *This meeting will have to be rescheduled*  
+Week 3 - Background: 19th to 20th East and Southeast Asia  
 Week 4 - Pre-20th Cent. Development of Beijing and Edo  
 Week 5 - Treaty Ports and Foreign Concessions   
-*Gobbets Due*  
+*Primary Source Essay Due*  
 Week 6 - *Independent Learning Week*  
 Week 7 - Utopian Planning and Development of Colonial Cities  
 Week 8 - Source Focus: Shanghai Municipal Police Archive (SMPA)  
 Week 9 - Health and Hygiene  
-Week 10 - Labour, Politics, and Protest  
+Week 10 - Labour, Politics, and Protest *To be rescheduled*  
 Week 11 - Migration and Minorities  
-*Long Essay Due* - *No Exam Fall Semester*
+*Long Essay Due* 
 
 **Semester Two:**
 
 Week 1 - Broadening Theoretical Approaches  
-Week 2 - Second Cities   
-*Gobbets Due*  
+Week 2 - Second Cities and Cities in Motion   
+*Primary Source Essay Due*  
 Week 3 - Molding Colonial Spaces  
 Week 4 - Parks and Squares  
 Week 5 - Neighborhoods and Local Space  
@@ -41,21 +41,19 @@ Week 8 - Transportation Within and Beyond the City
 Week 9 - Spaces of Tourism   
 Week 10 - Commemoration, Preservation, and Memory  
 Week 11 - Cities Under Occupation  
-*Long Essay Due* - *Two Final Exams*
+*Long Essay Due* 
 
 ### Assessment Summary
 
-*All assignments due before midnight*
+**100% Coursework**  
 
-**60% Coursework**  
-Fri 19 Oct - Gobbet Exercise 1 (two gobbets, together worth 3%)   
-Fri 14 Dec - Long Essay 1 (24%)  
-Fri 8 Feb - Gobbet Exercise 2 (two gobbets, together worth 3%)  
-Fri 26 Apr - Long Essay 2 (24%)  
-Two Presentations (each 3% of coursework)
-
-**40% Exam**  
-2 Take-Home Examinations at the end of spring semester, 10 hours each
+Primary Source Essay 1 (10%) - 1,000 words  
+Long Essay 1 (25%) - 6,000 words  
+Presentation 1 (5%)   
+Primary Source Essay 2 (10%) - 1,000 words  
+Long Essay 2 (25%) - 6,000 words  
+Presentation 2 (5%)  
+Blog Entries (20%) - 8 entries  
 
 ### Learning Outcomes
 

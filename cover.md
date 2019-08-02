@@ -1,6 +1,6 @@
 % MO4971 The City in East and Southeast Asia c. 1850-1950
 % Tutor: Konrad M. Lawson
-% Fall and Spring, 2018-2019
+% Fall and Spring, 2019-2020
 
 \begin{center}
 

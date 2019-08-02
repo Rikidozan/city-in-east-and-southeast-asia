@@ -1,3 +1,5 @@
+\pagebreak
+
 ## Policies 
 
 **Marking**
@@ -45,14 +47,6 @@ Please do not to use applications on your laptop not related to our class, inclu
 **Collective Notes**
 
 I believe in the benefits of sharing notes, not only with your classmates, but with future potential students of the class. For this purpose, I have created, and will provide the link for a Google document where you can post readings, organize reference material and online links to info and sources, etc. throughout the semester. I will also provide a link to notes from previous years (which may include some different readings and seminar topics). Both present and past years should be treated as you might any historical source: you should not use them to replace your own reading and note taking, and you should not treat content and notes provided by others as something you can uncritically accept as accurate. Use them as a productive supplement, as an alternative perspective as you conduct your own studies.
-
-**Knowledge Transfer and Ongoing Feedback**
-
-The collective notes document is one example of how communication can happen from one year of students in this module to the next. In addition to this, as coordinator, I share my own thoughts about how the ways in which the module worked or fell short online here:  
-
-[http://muninn.net/teaching/](http://muninn.net/teaching/)
-
-There are also links to a repository containing the full history of changes to this handbook over time. The reflections on the course include some selections from student feedback. I value your evaluations a great deal and take them, both the formal evaluation at the end of the semester, and any feedback informally received during the course of the semester, very seriously. Please do not hesitate to share with me your concerns as well as suggestions for how you think the module might be improved in the future. I also encourage all students to consider including advice to future students of the module in the shared collective notes document, especially suggestions on the selection of topics, research, and the writing process.
 
 **Academic Misconduct and Plagiarism**
 
