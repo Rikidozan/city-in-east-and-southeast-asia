@@ -84,6 +84,8 @@ F) Amin, Ash and Nigel Thrift *Cities: Reimagining the Urban* 2002. Introduction
 
 Se-Yong Jang, ‘The Spatial Theory of de Certeau, a Vagabond in Stray Space’, *Localities* 5 (2015): 89–102
 
+Duncan, James S., and David Ley. *Place/Culture/Representation*. London, Routledge, 1993. (ebook)
+
 Wolff, Kurt H. *The Sociology Of Georg Simmel*. The Free Press., 1950. http://archive.org/details/sociologyofgeorg030082mbp. 
 
 Crang, Mike, and Nigel Thrift, eds. *Thinking Space*. London ; New York: Routledge, 2000.
@@ -99,6 +101,8 @@ Barnes, Trevor J, and Derek Gregory. *Reading Human Geography: The Poetics and P
 Soja, Edward W. *Postmodern Geographies: The Reassertion of Space in Critical Social Theory*. Second Edition edition. London; New York: Verso, 2011. (P)
 
 Goonewardena, Kanishka, Stefan Kipfer, Richard Milgrom, and Christian Schmid, eds. *Space, Difference, Everyday Life: Reading Henri Lefebvre*. 1 edition. New York: Routledge, 2008.
+
+Sack, Robert David. *Conceptions of Space in Social Thought*. London: Macmillan, 1980.
 
 Harvey, David. *Social Justice and the City*. Athens: University of Georgia Press, 2009. (P)
 
@@ -134,10 +138,13 @@ Andrew Gordon, *A Modern History of Japan: From Tokugawa Times to the Present*, 
 
 **Task:**
 
-1. Primary Source Exercise: Please connect to one of the two following English language newspapers from China and Japan that we have. Browse a few issues of the newspaper and bring a printed copy of one of the articles you found interesting related to cities and city life to share:
+1. Primary Source Exercise: Please connect to one of the following English language newspapers from China and Japan that we have. Browse a few issues of the newspaper and bring a printed copy of one of the articles you found interesting related to cities and city life to share:
 
 * [North China Herald](http://library.st-andrews.ac.uk/record=b2088752~S5)
 * [Japan Chronicle](http://library.st-andrews.ac.uk/record=b2089101~S5)
+* [The China Review (1872-1901)](http://hkjo.lib.hku.hk.ezproxy.st-andrews.ac.uk/exhibits/show/hkjo/browse)
+* [The Hong Kong Naturalist (1930-1941)](http://hkjo.lib.hku.hk.ezproxy.st-andrews.ac.uk/exhibits/show/hkjo/browse)
+* [The Far Eastern Review (1904-1941)](https://go-gale-com.ezproxy.st-andrews.ac.uk/ps/aboutJournal.do?actionString=DO_DISPLAY_ABOUT_PAGE&searchType=PublicationSearchForm&docId=GALE%7C4WHC&userGroupName=stand&inPS=true&prodId=GDCS)
 
 ### Week 4: Pre-20th Cent. Capitals
 
@@ -290,6 +297,8 @@ There is no meeting in Independent Learning Week but this a very important time 
 * For primary sources, focus on the maps of Changchun in our various readings. Be prepared to be asked to analyse and discuss them.
 
 * Examine Changchun today via a satellite map and reflect on how the city has expanded and transformed
+
+**Required Reading:**
 
 Michel Foucault, "Of Other Spaces: Utopias and Heterotopias" *Architecture/Mouvement/Continuité* October, 1984
 
@@ -594,11 +603,20 @@ D) Njoh, Ambe J. ‘French Urbanism in Indochina’. In *French Urbanism in Fore
 
 E) Hotta-Lister, A. *The Japan-British Exhibition of 1910: Gateway to the Island Empire of the East*. 1 edition. Richmond: Routledge, 1999, Entire Book.
 
+F) Mitchell, Timothy. *Colonising Egypt*. New Ed edition. Berkeley: University of California Press, 2011. Ch 1- 3. Myers, Garth A. *Verandahs of Power: Colonialism and Space in Urban Africa*. Syracuse University Press, 2003. Introduction, Ch 1-2. 
+
 **Further Reading**
 
 Blussé, Léonard. *Strange Company: Chinese Settlers, Mestizo Women and the Dutch in VOC Batavia*. Foris Publications, 1986. (P)
 
 Moore, James. “Making Cairo Modern? Innovation, Urban Form and the Development of Suburbia, c. 1880–1922.” *Urban History* 41, no. 01 (2014): 81–104. https://doi.org/10.1017/S096392681300028X.
+
+Mitchell, Timothy. *Colonising Egypt*. New Ed edition. Berkeley: University of California Press, 2011.
+
+Noyes, J. K. *Colonial Space: Spatiality in the Discourse of German South West Africa 1884-1915*. Routledge, 2012.
+
+Telkamp, Gerard J, and Robert J Ross eds. *Colonial Cities: Essays on Urbanism in a Colonial Context*. 1985 edition. Martinus Nihoff Publishers, 1985.
+
 
 
 ### Week 4: Gardens, Parks and Squares
@@ -688,13 +706,13 @@ Hirayama, Yosuke, and Richard Ronald. *Housing and Social Transition in Japan*. 
 
 Tanizaki, Junichiro. *In Praise Of Shadows*. New Ed edition. London: Vintage Classics, 2001 (about 50pp)
 
-Engel, Heino *Measure and Construction of the Japanese Home* - Examine the images, including pp20-1,28,29-30,37,40-1,44-59,63-67
+Engel, Heino *Measure and Construction of the Japanese House* - Examine the images, including pp20-1,28,29-30,37,40-1,44-59,63-67
 
 **Required Reading** (~165)
 
 *Cambridge History of Japan* Vol. 6, 20th century, section on Tanizaki Junichiro in Ch 14, pp752-754.
 
-Engel, Heino *Measure and Construction of the Japanese Home*, Introduction pp13-14,22-33, 42-59, 109-117
+Engel, Heino *Measure and Construction of the Japanese House*, Introduction pp13-14,22-33, 42-59, 109-117
 
 Jordan Sand, *House and Home in Modern Japan: Reforming Everyday Life 1880-1930* (Cambridge, Mass.; London: Harvard University Press, 2005), Ch 8 "House Design and the Mass Market" pp263-287 (P)
 
@@ -750,7 +768,7 @@ Yoon, Hong-Key. *The Culture of Fengshui in Korea: An Exploration of East Asian 
 
 Jordan Sand, *House and Home in Modern Japan: Reforming Everyday Life 1880-1930* (Cambridge, Mass.; London: Harvard University Press, 2005), Introduction and Ch 1-4 (1-161). [ebook](http://hdl.handle.net/2027/heb.05898) (P)
 
-Ozaki, Ritsuko. ‘Society and Housing Form: Home-Centredness in England vs. Family-Centredness in Japan’. *Journal of Historical Sociology* 14, no. 3 (2001): 337–57. 
+Timothy Mitchell *Colonising Egypt* University of California Press. Ch 2 "Enframing"
 
 Ozaki, Ritsuko, and John Rees Lewis. ‘Boundaries and the Meaning of Social Space: A Study of Japanese House Plans’. *Environment and Planning D: Society and Space 24*, no. 1 (1 February 2006): 91–104. https://doi.org/10.1068/d62j.
 
@@ -759,6 +777,8 @@ Yamaguchi, Kiyoko. “The New ‘American’ Houses in the Colonial Philippines 
 *No elective reading this week, do your handout on one of the chapters of Jordan Sand's book*
 
 **Further Reading**
+
+Ozaki, Ritsuko. ‘Society and Housing Form: Home-Centredness in England vs. Family-Centredness in Japan’. *Journal of Historical Sociology* 14, no. 3 (2001): 337–57. 
 
 Saito, Satoru. *Detective Fiction and the Rise of the Japanese Novel, 1880-1930*. Harvard University Asia Center, 2012. (P)
 
@@ -831,6 +851,8 @@ Ruoff, Kenneth J. *Imperial Japan at Its Zenith: The Wartime Celebration of the 
 Demay, Aline. *Tourism and Colonization in Indochina (1898-1939)*. Newcastle upon Tyne: Cambridge Scholars Publishing, 2014. (P)
 
 Pratt, Mary Louise. *Imperial Eyes: Travel Writing and Transculturation*. Routledge, 2010. (P)
+
+Blunt, Alison. *Travel, Gender and Imperialism: Mary Kingsley and West Africa*. 1 edition. New York: Guilford Press, 1994.
 
 Moon, Okpyo "Japanese Tourists in Korea: Colonial and Post-Colonial Encounters" in *Japanese Tourism and Travel Culture* (2009)
 
