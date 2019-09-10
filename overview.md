@@ -53,7 +53,7 @@ Presentation 1 (5%)
 Primary Source Essay 2 (10%) - 1,000 words  
 Long Essay 2 (25%) - 6,000 words  
 Presentation 2 (5%)  
-Blog Entries (20%) - 8 entries  
+Blog Entries (20%) - 6 entries
 
 ### Learning Outcomes
 

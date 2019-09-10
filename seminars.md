@@ -2,6 +2,8 @@
 
 ## Seminars
 
+**Please Note**: We have an [online reading list](https://rl.talis.com/3/sta/lists/AF829C50-640A-3848-602B-0CD24E888B64.html?lang=en-GB) for the module for your convenience but it is harder to read, is sometimes missing texts, and does not include specific tasks that I set for your preparation. Always work from the handbook as you prepare your readings but you can check for ebook versions etc. with the digital reading list. Again: this handbook is the canonical version of your preparation guidelines, not the sometimes incorrect online reading list.
+ 
 
 ### Week 0 - Urban History and Spatial History
 
@@ -74,11 +76,11 @@ B) Massey, Doreen B. *For Space*. London; Thousand Oaks, Calif.: SAGE, 2005. Rea
 
 NOTE: A third challenging reading. Please try to understand her critique of de Certeau, in particular.
 
-D) Georg Simmel, “The Metropolis and Mental Life” (1903) in Gary Bridge and Sophie Watson, eds. *The Blackwell City Reader*. Oxford and Malden, MA: Wiley-Blackwell, 2002. + Simmel, Georg, David Frisby, and Mike Featherstone. *Simmel on Culture: Selected Writings. Theory, Culture & Society*. London: Sage, 1997 Part IV Spatial and Urban Culture pp137-187
+C) Georg Simmel, “The Metropolis and Mental Life” (1903) in Gary Bridge and Sophie Watson, eds. *The Blackwell City Reader*. Oxford and Malden, MA: Wiley-Blackwell, 2002. + Simmel, Georg, David Frisby, and Mike Featherstone. *Simmel on Culture: Selected Writings. Theory, Culture & Society*. London: Sage, 1997 Part IV Spatial and Urban Culture pp137-187
 
-E) Elden, Stuart. *Understanding Henri Lefebvre: Theory and the Possible*. London ; New York: Continuum, 2004. Ch Introduction, 3-5.
+D) Elden, Stuart. *Understanding Henri Lefebvre: Theory and the Possible*. London ; New York: Continuum, 2004. Ch Introduction, 3-5.
 
-F) Amin, Ash and Nigel Thrift *Cities: Reimagining the Urban* 2002. Introduction, Ch 1-2 pp1-50 (P)
+E) Amin, Ash and Nigel Thrift *Cities: Reimagining the Urban* 2002. Introduction, Ch 1-2 pp1-50 (P)
 
 **Further Reading**
 

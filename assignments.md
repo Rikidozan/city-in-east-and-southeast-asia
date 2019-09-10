@@ -189,9 +189,9 @@ We have a module website at:
 
 [http://spatialhistory.net/cities/](http://spatialhistory.net/cities/)
 
-This is a public facing website where students will contribute postings, but no students will be asked to use their real name. You can set or change your pseudonym through the blog interface whenever you like. Students are required to post a **minimum of eight postings** during the year, and these postings must be **posted across eight different weeks** and **at least four postings done in the first semester**. There is flexibility on the content: you may freely post on readings from before or after the week posted, and may have more than one posting related to material from a single week. The total number of words posted across the year must be a minimum of 5,000 words posted (for example, 8 postings with 750 words, or more postings but shorter in length).  
+This is a public facing website where students will contribute postings, but no students will be asked to use their real name. You can set or change your pseudonym through the blog interface whenever you like. Students are required to post a **minimum of eight postings** during the year, and these postings must be **posted across eight different weeks** and **at least four postings done in the first semester**. There is flexibility on the content: you may freely post on readings from before or after the week posted, and may have more than one posting related to material from a single week. The total number of words posted across the year must be a minimum of 3,000 words posted across a minimum of 6 entries from different weeks (more words or more postings during the year are welcome).  
 
-At the end of the year, you should copy and paste eight selected blog postings (Note: although you must have posted at least 5,000 words across the year, your chosen eight postings for submission may total less than that overall since you could have posted more than eight postings during the year), including their titles, links to the online version, and the date they were posted online into a document and upload this document to the MMS. The postings must already be on the blog, and cannot be new postings produced for the submission. Points for the overall mark will be the average of the mark on the eight selected and submitted postings. Each posting will not receive specific feedback but instead receive a mark based on the cumulative score according to the following simple criteria, which are judged to be *either present or absent* (no partial marks):
+At the end of the year, you should copy and paste six selected blog postings, including their titles, links to the online version, and the date they were posted online into a document and upload this document to the MMS. The postings must already be on the blog, and cannot be new postings produced for the submission. Points for the overall mark will be the average of the mark on the six selected and submitted postings. Each posting will not receive specific feedback but instead receive a mark based on the cumulative score according to the following simple criteria, which are judged to be *either present or absent* (no partial marks):
 
 * 5 points if the posting makes a clear analytical point
 * 4 points if the posting makes concrete references to particular parts of a reading, with a footnote
@@ -200,13 +200,13 @@ At the end of the year, you should copy and paste eight selected blog postings (
 * 3 points if the posting keeps a good focus throughout.
 * 2 additional points will be given for postings that are of a high quality
 
-A decent posting, with no significant flaws, should, therefore, get a score of 18. Particularly strong postings may garner 20s. *Example:* A student writes 10 postings during the semester totalling 7,000 words. They select 8 of these, including 2 high quality post of 600 words (20), 5 posts that meet the requirements, (500 words x 2, 600 words x 2, 700 words x 1, each getting 18), and 1 post of 900 words that follows all the above but did not maintain a clear focus (18-3=15), then the overall blog mark would come to (20+20+18+18+18+18+18+15)/4 = 18.1
+A decent posting, with no significant flaws, should, therefore, get a score of 18. Particularly strong postings may garner 20s. *Example:* A student writes 10 postings during the semester totalling 7,000 words. They select 6 of these, including 2 high quality post of 600 words (20), 3 posts that meet the requirements, (500 words x 1, 700 words x 2, each getting 18), and 1 post of 900 words that follows all the above but did not maintain a clear focus (18-3=15), then the overall blog mark would come to (20+20+18+18+18+15)/6 = 18.2
 
 **How to Post Blog Entries:** You will be given details for your login information late in the first week. Then to login, go to:
 
 [http://spatialhistory.net/cities/post/](http://spatialhistory.net/cities/post/)
 
-- Use your login user name and password.
+- Use your login user name and password. This will be given to you by the end of Week 1.
 - From there, on the left hand sidey ou can choose "Add New" from the "Posts" menu.
 - There, give your posting a title
 - add a few tags on the right side without any caps, for example "japan, 20th century, domestic space, kitchens, advertising" that indicate things like place, time, people, topics that are relevant to your posting (all without caps).
