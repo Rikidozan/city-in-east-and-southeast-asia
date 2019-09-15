@@ -47,11 +47,11 @@ Week 11 - Cities Under Occupation
 
 **100% Coursework**  
 
-Primary Source Essay 1 (10%) - 1,000 words  
-Long Essay 1 (25%) - 6,000 words  
+Primary Source Essay 1 (10%) - 800 words  
+Long Essay 1 (25%) - 5,000 words  
 Presentation 1 (5%)   
-Primary Source Essay 2 (10%) - 1,000 words  
-Long Essay 2 (25%) - 6,000 words  
+Primary Source Essay 2 (10%) - 800 words  
+Long Essay 2 (25%) - 5,000 words  
 Presentation 2 (5%)  
 Blog Entries (20%) - 6 entries
 

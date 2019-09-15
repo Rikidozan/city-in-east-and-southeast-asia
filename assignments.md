@@ -37,7 +37,7 @@ If you prefer **and do so consistently**, you may use the Chicago Style (Notes a
 
 ### Primary Source Essay
 
-In each of the two semesters students will be asked to submit a short 1,000 word analytical essay that analyses a primary source. 
+In each of the two semesters students will be asked to submit a short 800 word analytical essay that analyses a primary source. 
 
 * Selecting a source: The student may select a source related to their long essay research, from the primary sources assigned during the semester, but from beyond the assigned portion (a different page range, another part, another volume etc.), or with approval of the tutor, a source of interest to the student. The source may be visual (a map, photograph, drawing, etc.) or textual. The full body of the source must be included at the top of the essay, preceded by a citation. You may not choose one of the sources we have consulted in class.
 
@@ -51,7 +51,7 @@ In each of the two semesters students will be asked to submit a short 1,000 word
 
 ### Long Essay
 
-The two long essays for the course are the highest value assessments for the module and should be 6,000 words long. There will, however, not be a length penalty on submitted essays up to 8,000 words if you wish to write something in even greater depth (thereafter the 10% rule applies). The process of composing an essay of this length is made far easier if make steady progress throughout the semester rather than face potential panic and disappointment nearer the deadline. Narrow down an area of interest, read within this area of interest, isolate a few questions of interest, carry out further reading and analysis, and then proceed to write an essay which makes a convincing historical argument. The Long Essay should be primary source driven.
+The two long essays for the course are the highest value assessments for the module and should be 5,000 words long. There will, however, not be a length penalty on submitted essays up to 8,000 words if you wish to write something in even greater depth (thereafter the 10% rule applies). The process of composing an essay of this length is made far easier if make steady progress throughout the semester rather than face potential panic and disappointment nearer the deadline. Narrow down an area of interest, read within this area of interest, isolate a few questions of interest, carry out further reading and analysis, and then proceed to write an essay which makes a convincing historical argument. The Long Essay should be primary source driven.
 
 This module is a module on the history of cities but also a spatial history module. You may choose to write about some aspect a city, a part of a city, comparisons between cities, some aspect of life within a city, but also you are most welcome to write an essay which has a strongly spatial theme. In this module we study spaces from the scale of the domestic space of a home up to a regional scale. If there are other East or Southeast Asia essay topics that you would like to write about but you are worried may fall outside the scope of the module will usually be approved, just check with me first.
 
